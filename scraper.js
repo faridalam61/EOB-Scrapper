@@ -2,17 +2,30 @@ const puppeteer = require('puppeteer-extra');
 const StealthPlugin = require('puppeteer-extra-plugin-stealth');
 const createCsvWriter = require('csv-writer').createObjectCsvWriter;
 const { v4: uuidv4 } = require('uuid');
+const readline = require('readline');
 
 // Use the stealth plugin
 puppeteer.use(StealthPlugin());
 
+// Function to prompt user input
+function promptUser(query) {
+  const rl = readline.createInterface({
+    input: process.stdin,
+    output: process.stdout,
+  });
+
+  return new Promise(resolve => rl.question(query, ans => {
+    rl.close();
+    resolve(ans);
+  }));
+}
+
 function getRandomExpirationDate() {
   const currentDate = new Date();
   const minDate = new Date(currentDate.setMonth(currentDate.getMonth() + 3));
-  const maxDate = new Date(currentDate.setMonth(currentDate.getMonth() + 2));
+  const maxDate = new Date(currentDate.setMonth(currentDate.getMonth() + 5));
   const randomDate = new Date(minDate.getTime() + Math.random() * (maxDate.getTime() - minDate.getTime()));
   
-  // Format date in MM/DD/YYYY format
   const month = String(randomDate.getMonth() + 1).padStart(2, '0');
   const day = String(randomDate.getDate()).padStart(2, '0');
   const year = randomDate.getFullYear();
@@ -20,24 +33,23 @@ function getRandomExpirationDate() {
   return `${month}/${day}/${year}`;
 }
 
-async function scrapeJobs() {
-  const numberOfPagesToScrape = 3; // Number of times to click the next page button
+async function scrapeJobs(category, subcategory, url, numberOfPagesToScrape) {
   let currentPage = 1;
+
+  console.log('Scraper started. Please wait...');
 
   const browser = await puppeteer.launch({ headless: false });
   const page = await browser.newPage();
-  const url = `https://www.indeed.com/jobs?q=software+developer&l=San+Francisco%2C+CA`;
   await page.goto(url, { waitUntil: 'networkidle2', timeout: 60000 });
 
   async function scrapeJobDetails() {
     const jobDetails = [];
 
     while (currentPage <= numberOfPagesToScrape) {
-      // Check if 'cb-lb' class appears
       const cbLbButton = await page.$('.cb-lb');
       if (cbLbButton) {
         console.log('Captcha detected, stopping the scraper.');
-        break; // Exit the loop if captcha is detected
+        break;
       }
 
       await page.waitForSelector('.resultContent');
@@ -84,7 +96,7 @@ async function scrapeJobs() {
 
           const companyUrl = await page.$eval('.css-1saizt3.e1wnkr790 > a', el => el.href).catch(() => 'unavailable');
           const companyName = await page.$eval('.css-1saizt3.e1wnkr790 > a', el => el.innerText.trim()).catch(() => 'unavailable');
-          const averageRating = await page.$eval('[data-testid="inlineHeader-companyName"] .css-ppxtlp.e1wnkr790', el => el.innerText.trim()).catch(() => 'unavailable');
+          const averageRating = await page.$eval('.css-ppxtlp.e1wnkr790', el => el.innerText.trim()).catch(() => 'unavailable');
 
           let review = 'unavailable';
           let numberOfJobs = 'unavailable';
@@ -92,9 +104,7 @@ async function scrapeJobs() {
             const companyPage = await browser.newPage();
             await companyPage.goto(companyUrl, { waitUntil: 'networkidle2', timeout: 60000 });
 
-            // Extract review
             review = await companyPage.$eval('[data-testid="reviews-tab"] .css-104u4ae.eu4oa1w0', el => el.innerText.trim()).catch(() => 'unavailable');
-            // Extract number of jobs
             numberOfJobs = await companyPage.$eval('[data-testid="jobs-tab"] .css-104u4ae.eu4oa1w0', el => el.innerText.trim()).catch(() => 'unavailable');
             
             await companyPage.close();
@@ -116,8 +126,8 @@ async function scrapeJobs() {
             salary: salaryInfo.salary,
             shift: jobShift,
             benefit,
-            category: 'unavailable',
-            subcategory: 'unavailable',
+            category,
+            subcategory,
             expire_at: expiresAt,
             is_claimed: false,
             average_rating: averageRating,
@@ -131,7 +141,6 @@ async function scrapeJobs() {
         }
       }
 
-      // Click on the next page
       try {
         const nextPageButtons = await page.$$('.css-227srf.eu4oa1w0');
         const lastNextPageButton = nextPageButtons[nextPageButtons.length - 1];
@@ -150,9 +159,11 @@ async function scrapeJobs() {
   const jobDetails = await scrapeJobDetails();
   console.log(jobDetails);
 
-  await saveJobsToCsv(jobDetails, 'jobs.csv');
+  const uniqueFileName = `jobs_${uuidv4().slice(0, 4)}.csv`;
+  await saveJobsToCsv(jobDetails, uniqueFileName);
 
   await browser.close();
+  console.log(`Done. Jobs saved in ${uniqueFileName}`);
 }
 
 async function saveJobsToCsv(jobs, filePath) {
@@ -185,5 +196,10 @@ async function saveJobsToCsv(jobs, filePath) {
 }
 
 (async () => {
-  await scrapeJobs();
+  const category = await promptUser('Enter category: ');
+  const subcategory = await promptUser('Enter subcategory: ');
+  const url = await promptUser('Enter URL to scrape: ');
+  const numberOfPagesToScrape = parseInt(await promptUser('Enter number of pages to scrape: '));
+
+  await scrapeJobs(category, subcategory, url, numberOfPagesToScrape);
 })();

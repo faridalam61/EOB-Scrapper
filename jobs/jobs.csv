@@ -1,5 +1,5 @@
-jobId,posted_at,title,job_url,branch,company,company_url,review,description,type,salary,shift,benefit,category,subcategory,expire_at,is_claimed,average_rating,number_of_jobs,third_party_apply_url
-191cadcb-600d-4fd3-957c-854a1144083c,pending,Web Application Software Developer,https://www.indeed.com/rc/clk?jk=e8cb0a78f187f28a&bb=jX-N6_ETV1194QUiAbdXvlwfsDoUgaD3ppc8E_8FWp6RBz58Hj2q7gVkOScbj606ZhLmpQLsTcNETNy2kZLjxIpQhV9U6X3df8MvYwxfNxAABTRdzWQ4XaK9WTCKNTEY&xkcb=SoBR67M3-QaNBP3rW50LbzkdCdPP&fccid=f5d3dc952a96809f&vjs=3,pending,"Bio-Rad Laboratories, Inc.","https://www.indeed.com/cmp/Bio--rad-Laboratories,-Inc.?campaignid=mobvjcmp&from=mobviewjob&tk=1i2g90putlve4809&fromjk=e8cb0a78f187f28a",482,"As a Web Application Developer in the clinical diagnostics group, your daily activities will focus on improving existing web analysis tools and deploying new features to streamline the flow and analysis of data in our organization. You will be responsible for maintaing the existing web-based applications in AWS and help to create new applications as project needs evolve.
+jobId,title,job_url,branch,company,company_url,review,description,type,salary,shift,benefit,category,subcategory,expire_at,is_claimed,average_rating,number_of_jobs,third_party_apply_url
+b231dd50-255a-47b3-b5be-7ec7c0b9e508,Web Application Software Developer,https://www.indeed.com/rc/clk?jk=e8cb0a78f187f28a&bb=lyZ3qW-O-wTejBMwvsaeQ7cYvXZQOEU1fMnTvNWhqGW6Ux-xOBybzaJWqxynJ-Jucdp1AonB_h_il0zWOZnejS-zM5Oc6oRK7vw2ZujzON62GdLZ044Un14ZcOr1Zepb&xkcb=SoBq67M3-QVq8w3MNB0LbzkdCdPP&fccid=f5d3dc952a96809f&vjs=3,unavailable,"Bio-Rad Laboratories, Inc.","https://www.indeed.com/cmp/Bio--rad-Laboratories,-Inc.?campaignid=mobvjcmp&from=mobviewjob&tk=1i2geq1kcnbl9800&fromjk=e8cb0a78f187f28a",482,"As a Web Application Developer in the clinical diagnostics group, your daily activities will focus on improving existing web analysis tools and deploying new features to streamline the flow and analysis of data in our organization. You will be responsible for maintaing the existing web-based applications in AWS and help to create new applications as project needs evolve.
 
 How You’ll Make An Impact:
 
@@ -55,7 +55,7 @@ Agency Non-Solicitation: Bio-Rad does not accept agency resumes, unless the agen
 
 Fraud Alert: Bio-Rad has received reports of individuals posing as Bio-Rad recruiters to obtain information, including personal and financial, from applicants. Beware of these fake ""recruiters"" and job scams. Click here for more information on this scam and how to avoid it. #LI-AK1 #LI-Hybrid
 
-Legal Entity: (USA_1000)Bio-Rad Laboratories, Inc.",unknown,"$102,100 - $140,500 a year",unknown,"Benefits
+Legal Entity: (USA_1000)Bio-Rad Laboratories, Inc.",unavailable,"$102,100 - $140,500 a year",unavailable,"Benefits
 Pulled from the full job description
 401(k)
 Disability insurance
@@ -65,46 +65,8 @@ Health savings account
 Paid parental leave
 Paid time off
 Show more
-&nbsp;",pending,pending,11/06/2024,false,pending,97,https://www.indeed.com/rc/clk?jk=e8cb0a78f187f28a&bb=jX-N6_ETV1194QUiAbdXvlwfsDoUgaD3ppc8E_8FWp6RBz58Hj2q7gVkOScbj606ZhLmpQLsTcNETNy2kZLjxIpQhV9U6X3df8MvYwxfNxAABTRdzWQ4XaK9WTCKNTEY&xkcb=SoBR67M3-QaNBP3rW50LbzkdCdPP&fccid=f5d3dc952a96809f&vjs=3
-5c9ccb54-7411-42e7-8faa-b5f9bc64246f,pending,Software Developer,https://www.indeed.com/rc/clk?jk=bc62aac6cc3b7477&bb=jX-N6_ETV1194QUiAbdXvt6hFegt7eSsfMuTn8H465JX6PC34FeAOHiCVU7Yg_Lh9eACPHRvRrJRGtfShYVoWOgOm-b088sa1PhlbideN55N1KQBsSq6fA%3D%3D&xkcb=SoDl67M3-QaNBP3rW50KbzkdCdPP&fccid=cd22d01053af7669&vjs=3,pending,Oracle,https://www.indeed.com/cmp/Oracle?campaignid=mobvjcmp&from=mobviewjob&tk=1i2g910i52qqs002&fromjk=bc62aac6cc3b7477,7.3K,"Design, develop, troubleshoot and debug software programs for databases, applications, tools, networks etc.
-
-As part of the growth strategy for Oracle Cloud Infrastructure, we are looking for Principal Software Development Engineer position, that involves design, development and automation of tools/framework in Oracle cloud infrastructure. In this role, you will be working with developers, architects, and product management to lead and design and/or develop tools/automation software for our core cloud solutions.
-
-Experience:-Experience of 5-6+ years of hands-on Automation/Tools development along with QA expertise.Experience/Knowledge in at least three of the following technical areas is also required:o Object-oriented design and methodologies.
-
-Hands on with Java programming
-Experience in building Microservices
-Experience in using REST API’s
-Experience in developing Tools/Automation Framework
-Experience with development using Selenium apis
-Experience of working in an integrated environment
-Debugging and troubleshooting in automation failures
-Experience with Jira, git and bitbucket
-Knowledge or experience of working in cloud domain, cloud-based services (e.g. SaaS, PaaS)
-
-Career Level - IC4
-
-
-
-
-As a member of the software engineering division, you will take an active role in the definition and evolution of standard practices and procedures. You will be responsible for defining and developing software for tasks associated with the developing, designing and debugging of software applications or operating systems.
-
-We are looking for expertise in Java, Shell script and experience in Linux/Unix environment.
-Strong knowledge of automation framework
-Experience with Jira, git and bitbucket
-Experience with IDE tools like Eclipse , Intellij for development.
-Strong troubleshooting capabilities targeting complicated problems in integrated environment.
-Strong communication and strong writing skills required.
-Ability to multi-task and handle changing priorities and experience in agile development.
-Knowledge of software development methodology, build tools, and product life cycle.
-Excellent team skills, can-do demeanor, focus on quality.
-
-Educational Requirements :
-
-B.S/M.S in Computer Science, Computer Engineering, or equivalent from a reputed multifaceted institute.
-
-We would like to meet you if it sounds like you!!!",unknown,Full-time,"Full-time, ",unknown,pending,pending,11/27/2024,false,pending,1.5K,https://www.indeed.com/rc/clk?jk=bc62aac6cc3b7477&bb=jX-N6_ETV1194QUiAbdXvt6hFegt7eSsfMuTn8H465JX6PC34FeAOHiCVU7Yg_Lh9eACPHRvRrJRGtfShYVoWOgOm-b088sa1PhlbideN55N1KQBsSq6fA%3D%3D&xkcb=SoDl67M3-QaNBP3rW50KbzkdCdPP&fccid=cd22d01053af7669&vjs=3
-6cb059b0-c36d-44d5-bc9b-cf1c3809a599,pending,Software Engineering MTS,https://www.indeed.com/rc/clk?jk=8782e4aa238d7a8d&bb=jX-N6_ETV1194QUiAbdXvqw1qIUUnnwoYuXlTK5isjoF_O0OfdkUGHw-99QAQ1vNdyiln-yN_t178GRmew8l6JF5XvRpQd_tzT04UiH2JTQ_ql3fB72qYw%3D%3D&xkcb=SoB467M3-QaNBP3rW50JbzkdCdPP&fccid=4027cfd917e1ee29&vjs=3,pending,Salesforce,https://www.indeed.com/cmp/Salesforce?campaignid=mobvjcmp&from=mobviewjob&tk=1i2g916fonbl980d&fromjk=8782e4aa238d7a8d,1.2K,"To get the best candidate experience, please consider applying for a maximum of 3 roles within 12 months to ensure you are not duplicating efforts.
+&nbsp;",unavailable,unavailable,12/06/2024,false,unavailable,97,https://www.indeed.com/rc/clk?jk=e8cb0a78f187f28a&bb=lyZ3qW-O-wTejBMwvsaeQ7cYvXZQOEU1fMnTvNWhqGW6Ux-xOBybzaJWqxynJ-Jucdp1AonB_h_il0zWOZnejS-zM5Oc6oRK7vw2ZujzON62GdLZ044Un14ZcOr1Zepb&xkcb=SoBq67M3-QVq8w3MNB0LbzkdCdPP&fccid=f5d3dc952a96809f&vjs=3
+fd071aaf-39a4-4467-bbc8-a2d48fc65411,Software Engineering MTS,https://www.indeed.com/rc/clk?jk=8782e4aa238d7a8d&bb=lyZ3qW-O-wTejBMwvsaeQxtnMOgikkoy1qjxl_gSfp6cWEyQLoGA8xU5F8pdHmUF2hNPBJzApWSC2e2Nc0RG7OwQfKv__U6pMzQfhhHzDN6D1dc9w86ucQ%3D%3D&xkcb=SoDe67M3-QVq8w3MNB0KbzkdCdPP&fccid=4027cfd917e1ee29&vjs=3,unavailable,Salesforce,https://www.indeed.com/cmp/Salesforce?campaignid=mobvjcmp&from=mobviewjob&tk=1i2geqbk92p74004&fromjk=8782e4aa238d7a8d,1.2K,"To get the best candidate experience, please consider applying for a maximum of 3 roles within 12 months to ensure you are not duplicating efforts.
 
 Job Category
 
@@ -148,8 +110,8 @@ Pursuant to the San Francisco Fair Chance Ordinance and the Los Angeles Fair Cha
 
 For California-based roles, the base salary hiring range for this position is $147,368 to $188,600.
 
-Compensation offered will be determined by factors such as location, level, job-related knowledge, skills, and experience. Certain roles may be eligible for incentive compensation, equity, benefits. More details about our company benefits can be found at the following link: https://www.salesforcebenefits.com.",- Full-time,"$147,368 - $188,600 a year","$147,368 - $188,600 a year, ",unknown,pending,pending,11/19/2024,false,pending,295,https://www.indeed.com/rc/clk?jk=8782e4aa238d7a8d&bb=jX-N6_ETV1194QUiAbdXvqw1qIUUnnwoYuXlTK5isjoF_O0OfdkUGHw-99QAQ1vNdyiln-yN_t178GRmew8l6JF5XvRpQd_tzT04UiH2JTQ_ql3fB72qYw%3D%3D&xkcb=SoB467M3-QaNBP3rW50JbzkdCdPP&fccid=4027cfd917e1ee29&vjs=3
-f38e9a5f-1b6c-4acd-b6b6-234138327752,pending,Senior Software Developer,https://www.indeed.com/rc/clk?jk=b69ee5b8d2bb924c&bb=jX-N6_ETV1194QUiAbdXvp-1H_Zc27ZNoEShjuCaEpXKAkOjyn419lSNsGYuDQceHa8dPhBSKLSkWyNQGn-hCnfDTWiagIVmUPIkNhhU-DU3frdPFG8RnJ6yOm0ytHFf&xkcb=SoDM67M3-QaNBP3rW50IbzkdCdPP&fccid=ccaacd9cca9fffe8&vjs=3,pending,Redfin,https://www.indeed.com/cmp/Redfin?campaignid=mobvjcmp&from=mobviewjob&tk=1i2g91c2tnj9q800&fromjk=b69ee5b8d2bb924c,487,"This position is a hybrid role requiring employees to work from our headquarters location in Seattle, WA every Tuesday and Wednesday, and remote all other days.
+Compensation offered will be determined by factors such as location, level, job-related knowledge, skills, and experience. Certain roles may be eligible for incentive compensation, equity, benefits. More details about our company benefits can be found at the following link: https://www.salesforcebenefits.com.",- Full-time,"$147,368 - $188,600 a year","$147,368 - $188,600 a year, ",unavailable,unavailable,unavailable,11/28/2024,false,unavailable,295,https://www.indeed.com/rc/clk?jk=8782e4aa238d7a8d&bb=lyZ3qW-O-wTejBMwvsaeQxtnMOgikkoy1qjxl_gSfp6cWEyQLoGA8xU5F8pdHmUF2hNPBJzApWSC2e2Nc0RG7OwQfKv__U6pMzQfhhHzDN6D1dc9w86ucQ%3D%3D&xkcb=SoDe67M3-QVq8w3MNB0KbzkdCdPP&fccid=4027cfd917e1ee29&vjs=3
+ad143963-347a-4106-9a7e-6839d3862cda,Senior Software Developer,https://www.indeed.com/rc/clk?jk=b69ee5b8d2bb924c&bb=lyZ3qW-O-wTejBMwvsaeQ142vyAD6A0UjWDw6ZBsCmYypKwTyXsH7MjOwvEQBe50jm0vmpJG8ggzcDtrg6E4LIBLY8AGNxGxAYfqMPMe8sWy7A0dqZ7vwfHuOTgo5o-P&xkcb=SoBD67M3-QVq8w3MNB0JbzkdCdPP&fccid=ccaacd9cca9fffe8&vjs=3,unavailable,Redfin,https://www.indeed.com/cmp/Redfin?campaignid=mobvjcmp&from=mobviewjob&tk=1i2geqlou2ste007&fromjk=b69ee5b8d2bb924c,487,"This position is a hybrid role requiring employees to work from our headquarters location in Seattle, WA every Tuesday and Wednesday, and remote all other days.
 
 ***This hybrid role can be based in our Seattle office or Atlanta office***
 
@@ -219,8 +181,100 @@ Employee assistance program
 Family leave
 Flexible spending account
 Show more
-&nbsp;",pending,pending,10/19/2024,false,pending,323,https://www.indeed.com/rc/clk?jk=b69ee5b8d2bb924c&bb=jX-N6_ETV1194QUiAbdXvp-1H_Zc27ZNoEShjuCaEpXKAkOjyn419lSNsGYuDQceHa8dPhBSKLSkWyNQGn-hCnfDTWiagIVmUPIkNhhU-DU3frdPFG8RnJ6yOm0ytHFf&xkcb=SoDM67M3-QaNBP3rW50IbzkdCdPP&fccid=ccaacd9cca9fffe8&vjs=3
-282adb7e-7e84-4e65-aa2d-7a14082bf541,pending,"BlackRock Global Markets (BGM) - Full-Stack Developer, Associate",https://www.indeed.com/rc/clk?jk=b48294b5c1ed99f0&bb=jX-N6_ETV1194QUiAbdXvpvFiiZL4bFOCLm59izWsJlkptywfB6QzF1GI0k5UaLOxhamzz0l_WhM5V-nbtg5JXZpITaj3zy4oN6_-uU6Elod1QtH-HM3eneylD3VTt2W&xkcb=SoBC67M3-QaNBP3rW50PbzkdCdPP&fccid=58c732f14833248a&vjs=3,pending,BlackRock,https://www.indeed.com/cmp/Blackrock-5d08a3c4?campaignid=mobvjcmp&from=mobviewjob&tk=1i2g91i0agorg806&fromjk=b48294b5c1ed99f0,632,"Description
+&nbsp;",unavailable,unavailable,11/19/2024,false,unavailable,373,https://www.indeed.com/rc/clk?jk=b69ee5b8d2bb924c&bb=lyZ3qW-O-wTejBMwvsaeQ142vyAD6A0UjWDw6ZBsCmYypKwTyXsH7MjOwvEQBe50jm0vmpJG8ggzcDtrg6E4LIBLY8AGNxGxAYfqMPMe8sWy7A0dqZ7vwfHuOTgo5o-P&xkcb=SoBD67M3-QVq8w3MNB0JbzkdCdPP&fccid=ccaacd9cca9fffe8&vjs=3
+2140f8a2-a830-445d-a644-49aa57411127,Software Developer,https://www.indeed.com/rc/clk?jk=bc62aac6cc3b7477&bb=lyZ3qW-O-wTejBMwvsaeQwpwNrG02R0wlbmjYE8xHyL_f0CSFnHk5Ji0csqLPUkwoxz9BjL1x4bYdCO7PrbR2dGiVcBlypHO4G2Tfmxvi_kYmj5RNuPwWQ%3D%3D&xkcb=SoD367M3-QVq8w3MNB0IbzkdCdPP&fccid=cd22d01053af7669&vjs=3,unavailable,Oracle,https://www.indeed.com/cmp/Oracle?campaignid=mobvjcmp&from=mobviewjob&tk=1i2gequvpkhtq80f&fromjk=bc62aac6cc3b7477,7.3K,"Design, develop, troubleshoot and debug software programs for databases, applications, tools, networks etc.
+
+As part of the growth strategy for Oracle Cloud Infrastructure, we are looking for Principal Software Development Engineer position, that involves design, development and automation of tools/framework in Oracle cloud infrastructure. In this role, you will be working with developers, architects, and product management to lead and design and/or develop tools/automation software for our core cloud solutions.
+
+Experience:-Experience of 5-6+ years of hands-on Automation/Tools development along with QA expertise.Experience/Knowledge in at least three of the following technical areas is also required:o Object-oriented design and methodologies.
+
+Hands on with Java programming
+Experience in building Microservices
+Experience in using REST API’s
+Experience in developing Tools/Automation Framework
+Experience with development using Selenium apis
+Experience of working in an integrated environment
+Debugging and troubleshooting in automation failures
+Experience with Jira, git and bitbucket
+Knowledge or experience of working in cloud domain, cloud-based services (e.g. SaaS, PaaS)
+
+Career Level - IC4
+
+
+
+
+As a member of the software engineering division, you will take an active role in the definition and evolution of standard practices and procedures. You will be responsible for defining and developing software for tasks associated with the developing, designing and debugging of software applications or operating systems.
+
+We are looking for expertise in Java, Shell script and experience in Linux/Unix environment.
+Strong knowledge of automation framework
+Experience with Jira, git and bitbucket
+Experience with IDE tools like Eclipse , Intellij for development.
+Strong troubleshooting capabilities targeting complicated problems in integrated environment.
+Strong communication and strong writing skills required.
+Ability to multi-task and handle changing priorities and experience in agile development.
+Knowledge of software development methodology, build tools, and product life cycle.
+Excellent team skills, can-do demeanor, focus on quality.
+
+Educational Requirements :
+
+B.S/M.S in Computer Science, Computer Engineering, or equivalent from a reputed multifaceted institute.
+
+We would like to meet you if it sounds like you!!!",unavailable,Full-time,"Full-time, ",unavailable,unavailable,unavailable,11/18/2024,false,unavailable,1.5K,https://www.indeed.com/rc/clk?jk=bc62aac6cc3b7477&bb=lyZ3qW-O-wTejBMwvsaeQwpwNrG02R0wlbmjYE8xHyL_f0CSFnHk5Ji0csqLPUkwoxz9BjL1x4bYdCO7PrbR2dGiVcBlypHO4G2Tfmxvi_kYmj5RNuPwWQ%3D%3D&xkcb=SoD367M3-QVq8w3MNB0IbzkdCdPP&fccid=cd22d01053af7669&vjs=3
+26d8e0a3-1fb7-4b24-87ac-decad6fbbbb2,Software Developer,https://www.indeed.com/rc/clk?jk=4b8bf452148343fc&bb=lyZ3qW-O-wTejBMwvsaeQ6XwjaWp-BGOwLNhVDGMUMqyKeHxKY1aHGY7wShvIkvx7I5v_dDrUX-50dfZZB6KFg4eXyt7HiEmnJV74-g6Y9Jt8RLhtlka9w%3D%3D&xkcb=SoB567M3-QVq8w3MNB0PbzkdCdPP&fccid=cd22d01053af7669&vjs=3,unavailable,Oracle,https://www.indeed.com/cmp/Oracle?campaignid=mobvjcmp&from=mobviewjob&tk=1i2ger6m4it4u801&fromjk=4b8bf452148343fc,7.3K,"Business Data Intelligence is one of the fastest growing segments of the software industry. Business Data Intelligence Tools allow analytics and executives to get the information they need to make critical strategic decisions in a fast-paced rapidly changing business world. Our customers are typically users who are unfamiliar with database schema and technology, so we focus on building Next generation Self-Service Data Discovery and Analytics platform. This team provide you the opportunity to build and operate a suite of massive scale, integrated cloud services in a broadly distributed, multi-tenant cloud environment.
+
+For this position, we are seeking a full stack software engineer to join our growing team in the United States with following skills
+
+BS or higher degree in Computer Science, Computer Engineering or equivalent, Masters is preferred
+
+6+ years of hands-on Development experience
+
+Deep working knowledge of all aspects of Cloud native distributed system development. OCI, AWS preferred.
+
+Hands on experience with building micro-services and event driven architecture and distributed systems using appropriate design patterns.
+
+Expert in Software architecture; Cloud services Platforms; MicroServices, Distributed systems; Scalability; Design patterns; Disaster Recovery; Troubleshoot and resolve performance issues in the software
+
+Expert programmer in Java and Web based technologies that use micro services infrastructure. Strong experience building RESTful web services using Java, Spring Boot, JPA, JDBC, Experience designing & developing APIs and implementing GraphQL APIs and/or REST APIs, Strong knowledge of SQL and RDBMS database design
+
+Expert programmer using web UI technologies like Oracle JET, JavaScript, TypeScript, CSS, HTML5, AngularJS, ReactJS, Knockout.js, AJAX that meet functional specifications. Develop responsive UI that works on various screen sizes. Build UX designs and prototype the user experience during the design phase
+
+Build and drive the automation systems that maintain system health. Develop unit and integration tests using JUnit, Java, JavaScript Selenium or similar testing frameworks.
+
+Scripting and Development responsibilities; Experience with configuration management tools such as Ansible, Saltstack, Chef and PuppetBuild solutions for CI/CD automation and testing using tools like Jenkins, TeamCity, Docker, and KubernetesFamiliar with log centric tooling. Produce time series data and reusable dashboards for use both during and post event.
+
+Rapid application development using agile methodologies
+
+Career Level - IC3
+
+
+
+
+Define and maintain architecture roadmap, technical solutions for new and existing functionality for the products.
+
+Take ownership over architecture qualities of the end-to-end distributed applications
+
+Deliver architectural services, including guidance and conceptual design as well as technical and process innovations.
+
+Oversee the software development processes from start to finish by analyzing requirements, designing system architecture, coordinating with other teams to prioritize and allocate tasks
+
+Build high quality software by prioritizing quality control, collaborate with quality assurance team to define test plans and strategies, ensuring that software is thoroughly tested
+
+Leading and mentoring the engineering team by providing technical guidance, support and technical expertise to other team members, fostering a collaborative and productive work environment
+
+Design complex systems which are scalable and fault tolerant. You will reason about trade-offs (timeliness/accuracy/resource usage) of multiple algorithmic solutions and to highlight the difference in product outcomes.
+
+Investigate the latest technology and build quick Proof of Concept functionalities to address future business needs.
+
+Drive implementation of telemetry features based on the domain requirements to improve the overall operational excellence of the application
+
+Drive automation using more adoption and maturity on the CICD stage gates for the applications
+
+Ensure coding best practices and industry standards are followed throughout the development lifecycle.
+
+Ensure seamless integration and synchronization between various components and modules of the software
+
+Ensure projects are delivered on time and within budget by collaborating with stakeholders to define project scope, estimate timelines and identify potential risks and challenges",unavailable,Full-time,"Full-time, ",unavailable,unavailable,unavailable,12/06/2024,false,unavailable,1.5K,https://www.indeed.com/rc/clk?jk=4b8bf452148343fc&bb=lyZ3qW-O-wTejBMwvsaeQ6XwjaWp-BGOwLNhVDGMUMqyKeHxKY1aHGY7wShvIkvx7I5v_dDrUX-50dfZZB6KFg4eXyt7HiEmnJV74-g6Y9Jt8RLhtlka9w%3D%3D&xkcb=SoB567M3-QVq8w3MNB0PbzkdCdPP&fccid=cd22d01053af7669&vjs=3
+a692df99-0848-498f-b4c6-089d718e0255,"BlackRock Global Markets (BGM) - Full-Stack Developer, Associate",https://www.indeed.com/rc/clk?jk=b48294b5c1ed99f0&bb=lyZ3qW-O-wTejBMwvsaeQ2WbGaJPExeBjKggOAX-JYfftl0WTm1LAhf37FzjvRhAzO7FdeEgbiyAA-ErZHRFSxhZHQYPuJwZsaEnH76R042j7qTJXGLsG31PwG6natz4&xkcb=SoDN67M3-QVq8w3MNB0ObzkdCdPP&fccid=58c732f14833248a&vjs=3,unavailable,BlackRock,https://www.indeed.com/cmp/Blackrock-5d08a3c4?campaignid=mobvjcmp&from=mobviewjob&tk=1i2gere6gn8hd800&fromjk=b48294b5c1ed99f0,632,"Description
 
 About this role
 
@@ -294,67 +348,22 @@ About BlackRock
 
 At BlackRock, we are all connected by one mission: to help more and more people experience financial well-being. Our clients, and the people they serve, are saving for retirement, paying for their children’s educations, buying homes and starting businesses. Their investments also help to strengthen the global economy: support businesses small and large; finance infrastructure projects that connect and power cities; and facilitate innovations that drive progress.
 
-This mission would not be possible without our smartest investment – the one we make in our employees. It’s why we’re dedicated to creating an environment where our colleagues feel welcomed, valued and supported with networks, benefits and development opportunities to help them thrive.",unknown,"$125,000 - $150,000 a year",unknown,"Benefits
+This mission would not be possible without our smartest investment – the one we make in our employees. It’s why we’re dedicated to creating an environment where our colleagues feel welcomed, valued and supported with networks, benefits and development opportunities to help them thrive.",unavailable,"$125,000 - $150,000 a year",unavailable,"Benefits
 Pulled from the full job description
 Retirement plan
 Tuition reimbursement
 Work from home
-&nbsp;",pending,pending,10/26/2024,false,pending,103,https://www.indeed.com/rc/clk?jk=b48294b5c1ed99f0&bb=jX-N6_ETV1194QUiAbdXvpvFiiZL4bFOCLm59izWsJlkptywfB6QzF1GI0k5UaLOxhamzz0l_WhM5V-nbtg5JXZpITaj3zy4oN6_-uU6Elod1QtH-HM3eneylD3VTt2W&xkcb=SoBC67M3-QaNBP3rW50PbzkdCdPP&fccid=58c732f14833248a&vjs=3
-273ae1c2-1277-4baf-a620-b6f981ec6fa5,pending,Software Developer,https://www.indeed.com/rc/clk?jk=4b8bf452148343fc&bb=jX-N6_ETV1194QUiAbdXvjl29Ed7VA4ZjAaXaAuUKLaxWfcBrYqXJXjgJps5jM7yXwSBDyf9Mm4xFe6p3abcBnfhRLyR16SvcmYPsU4hxxX0P5nfV9-y5g%3D%3D&xkcb=SoD267M3-QaNBP3rW50ObzkdCdPP&fccid=cd22d01053af7669&vjs=3,pending,Oracle,https://www.indeed.com/cmp/Oracle?campaignid=mobvjcmp&from=mobviewjob&tk=1i2g91mgj2ste00s&fromjk=4b8bf452148343fc,7.3K,"Business Data Intelligence is one of the fastest growing segments of the software industry. Business Data Intelligence Tools allow analytics and executives to get the information they need to make critical strategic decisions in a fast-paced rapidly changing business world. Our customers are typically users who are unfamiliar with database schema and technology, so we focus on building Next generation Self-Service Data Discovery and Analytics platform. This team provide you the opportunity to build and operate a suite of massive scale, integrated cloud services in a broadly distributed, multi-tenant cloud environment.
+&nbsp;",unavailable,unavailable,12/08/2024,false,unavailable,103,https://www.indeed.com/rc/clk?jk=b48294b5c1ed99f0&bb=lyZ3qW-O-wTejBMwvsaeQ2WbGaJPExeBjKggOAX-JYfftl0WTm1LAhf37FzjvRhAzO7FdeEgbiyAA-ErZHRFSxhZHQYPuJwZsaEnH76R042j7qTJXGLsG31PwG6natz4&xkcb=SoDN67M3-QVq8w3MNB0ObzkdCdPP&fccid=58c732f14833248a&vjs=3
+6f49f9a3-0e9a-4a68-9528-0a456d36b0e2,Staff Software Engineer - Courier Pricing,https://www.indeed.com/rc/clk?jk=8c271d7aea8a9193&bb=lyZ3qW-O-wTejBMwvsaeQ-P7jhEILJgDpLntKzJi8iBjQ_924Zj_DoV72vnQEAcC3vvNM-m_Pd_sdrNIq7tr4rzfD8muY5_yBMUMgvZyTxmphybcl6BquAF2poDh4sDG&xkcb=SoBQ67M3-QVq8w3MNB0NbzkdCdPP&fccid=f766f8bfbc3effb7&vjs=3,"San Francisco, CA",Uber,https://www.indeed.com/cmp/Uber?campaignid=mobvjcmp&from=mobviewjob&tk=1i2gernuvlvcl800&fromjk=8c271d7aea8a9193,4.4K,"About the Role
 
-For this position, we are seeking a full stack software engineer to join our growing team in the United States with following skills
+This role is on the Courier Pricing team within the Marketplace organization. As a Staff Software Engineer on the Courier Pricing team, you will interact with a wide range of data and analytic events to build a best-in-class pricing system to efficiently price each offer made to Uber delivery partners. This work is continuing to define the courier niche in the global delivery marketplace.
 
-BS or higher degree in Computer Science, Computer Engineering or equivalent, Masters is preferred
-
-6+ years of hands-on Development experience
-
-Deep working knowledge of all aspects of Cloud native distributed system development. OCI, AWS preferred.
-
-Hands on experience with building micro-services and event driven architecture and distributed systems using appropriate design patterns.
-
-Expert in Software architecture; Cloud services Platforms; MicroServices, Distributed systems; Scalability; Design patterns; Disaster Recovery; Troubleshoot and resolve performance issues in the software
-
-Expert programmer in Java and Web based technologies that use micro services infrastructure. Strong experience building RESTful web services using Java, Spring Boot, JPA, JDBC, Experience designing & developing APIs and implementing GraphQL APIs and/or REST APIs, Strong knowledge of SQL and RDBMS database design
-
-Expert programmer using web UI technologies like Oracle JET, JavaScript, TypeScript, CSS, HTML5, AngularJS, ReactJS, Knockout.js, AJAX that meet functional specifications. Develop responsive UI that works on various screen sizes. Build UX designs and prototype the user experience during the design phase
-
-Build and drive the automation systems that maintain system health. Develop unit and integration tests using JUnit, Java, JavaScript Selenium or similar testing frameworks.
-
-Scripting and Development responsibilities; Experience with configuration management tools such as Ansible, Saltstack, Chef and PuppetBuild solutions for CI/CD automation and testing using tools like Jenkins, TeamCity, Docker, and KubernetesFamiliar with log centric tooling. Produce time series data and reusable dashboards for use both during and post event.
-
-Rapid application development using agile methodologies
-
-Career Level - IC3
+We research new models and algorithms and build platforms to serve our insights to customers at Uber scale. You will be working with world-class talent and surrounded by some of the world's most experienced engineering professionals, data scientists, and research scientists on user-facing products with global impact. This is your chance to develop groundbreaking technology that will touch every Uber trip!
 
 
 
-
-Define and maintain architecture roadmap, technical solutions for new and existing functionality for the products.
-
-Take ownership over architecture qualities of the end-to-end distributed applications
-
-Deliver architectural services, including guidance and conceptual design as well as technical and process innovations.
-
-Oversee the software development processes from start to finish by analyzing requirements, designing system architecture, coordinating with other teams to prioritize and allocate tasks
-
-Build high quality software by prioritizing quality control, collaborate with quality assurance team to define test plans and strategies, ensuring that software is thoroughly tested
-
-Leading and mentoring the engineering team by providing technical guidance, support and technical expertise to other team members, fostering a collaborative and productive work environment
-
-Design complex systems which are scalable and fault tolerant. You will reason about trade-offs (timeliness/accuracy/resource usage) of multiple algorithmic solutions and to highlight the difference in product outcomes.
-
-Investigate the latest technology and build quick Proof of Concept functionalities to address future business needs.
-
-Drive implementation of telemetry features based on the domain requirements to improve the overall operational excellence of the application
-
-Drive automation using more adoption and maturity on the CICD stage gates for the applications
-
-Ensure coding best practices and industry standards are followed throughout the development lifecycle.
-
-Ensure seamless integration and synchronization between various components and modules of the software
-
-Ensure projects are delivered on time and within budget by collaborating with stakeholders to define project scope, estimate timelines and identify potential risks and challenges",unknown,Full-time,"Full-time, ",unknown,pending,pending,10/31/2024,false,pending,1.5K,https://www.indeed.com/rc/clk?jk=4b8bf452148343fc&bb=jX-N6_ETV1194QUiAbdXvjl29Ed7VA4ZjAaXaAuUKLaxWfcBrYqXJXjgJps5jM7yXwSBDyf9Mm4xFe6p3abcBnfhRLyR16SvcmYPsU4hxxX0P5nfV9-y5g%3D%3D&xkcb=SoD267M3-QaNBP3rW50ObzkdCdPP&fccid=cd22d01053af7669&vjs=3
-d3654dc7-b2b5-43ed-ac0a-10a30ec9e5a1,pending,"Senior Software Engineer, UI",https://www.indeed.com/rc/clk?jk=af3bb9faa2d624a1&bb=jX-N6_ETV1194QUiAbdXvkRPtzpBb5J_xSoIHRTpRkQFQipp-Y0os9Xk45Ir4WQgkCjPeTDNbqVgav21-CJOiY2TRUXuCR8j3-AUScQYcCnzY4LEBb-BMwwpJZczqkk4&xkcb=SoBr67M3-QaNBP3rW50NbzkdCdPP&fccid=9dd30dd046d9ac7a&vjs=3,pending,DocuSign,https://www.indeed.com/cmp/Docusign?campaignid=mobvjcmp&from=mobviewjob&tk=1i2g91qk32i7s000&fromjk=af3bb9faa2d624a1,128,"Company Overview
+For New York, NY-based roles: The base salary range for this role is USD$218,000 per year - USD$242,000 per year. For San Francisco, CA-based roles: The base salary range for this role is USD$218,000 per year - USD$242,000 per year. For Sunnyvale, CA-based roles: The base salary range for this role is USD$218,000 per year - USD$242,000 per year. For all US locations, you will be eligible to participate in Uber's bonus program, and may be offered an equity award & other types of comp. You will also be eligible for various benefits. More details can be found at the following link https://www.uber.com/careers/benefits.",- Full-time,"$218,000 - $242,000 a year","$218,000 - $242,000 a year, ",unavailable,unavailable,unavailable,11/24/2024,false,unavailable,439,https://www.indeed.com/rc/clk?jk=8c271d7aea8a9193&bb=lyZ3qW-O-wTejBMwvsaeQ-P7jhEILJgDpLntKzJi8iBjQ_924Zj_DoV72vnQEAcC3vvNM-m_Pd_sdrNIq7tr4rzfD8muY5_yBMUMgvZyTxmphybcl6BquAF2poDh4sDG&xkcb=SoBQ67M3-QVq8w3MNB0NbzkdCdPP&fccid=f766f8bfbc3effb7&vjs=3
+0c994a64-2dc0-456f-ab59-77866d7ce777,"Senior Software Engineer, UI",https://www.indeed.com/rc/clk?jk=af3bb9faa2d624a1&bb=lyZ3qW-O-wTejBMwvsaeQzKNHkuvD6JqfTWwrLBFKmIFa5dTXePVDssGYlkrlC9b9UJml9V8P2v0pCu_QOeKbFcaHo3KTVSDV9NwfX6PUp1VQUutPWXC-fNyT9LwzOKh&xkcb=SoDk67M3-QVq8w3MNB0MbzkdCdPP&fccid=9dd30dd046d9ac7a&vjs=3,unavailable,DocuSign,https://www.indeed.com/cmp/Docusign?campaignid=mobvjcmp&from=mobviewjob&tk=1i2ges0vdn8h3800&fromjk=af3bb9faa2d624a1,128,"Company Overview
 
 Docusign brings agreements to life. Over 1.5 million customers and more than a billion people in over 180 countries use Docusign solutions to accelerate the process of doing business and simplify people’s lives. With intelligent agreement management, Docusign unleashes business-critical data that is trapped inside of documents. Until now, these were disconnected from business systems of record, costing businesses time, money, and opportunity. Using Docusign’s Intelligent Agreement Management platform, companies can create, commit, and manage agreements with solutions created by the #1 company in e-signature and contract lifecycle management (CLM).
 
@@ -473,10 +482,867 @@ Select retirement and pension programs with potential for employer contributions
 Learning & development
 Grow your career with coaching, online courses and education reimbursements.
 Compassionate care leave
-Paid time off following the loss of a loved one and other life-changing events.",unknown,"$151,800 - $245,150 a year",unknown,"Benefits
+Paid time off following the loss of a loved one and other life-changing events.",unavailable,"$151,800 - $245,150 a year",unavailable,"Benefits
 Pulled from the full job description
 Health insurance
 Paid parental leave
 Paid time off
 Parental leave
-&nbsp;",pending,pending,11/19/2024,false,pending,102,https://www.indeed.com/rc/clk?jk=af3bb9faa2d624a1&bb=jX-N6_ETV1194QUiAbdXvkRPtzpBb5J_xSoIHRTpRkQFQipp-Y0os9Xk45Ir4WQgkCjPeTDNbqVgav21-CJOiY2TRUXuCR8j3-AUScQYcCnzY4LEBb-BMwwpJZczqkk4&xkcb=SoBr67M3-QaNBP3rW50NbzkdCdPP&fccid=9dd30dd046d9ac7a&vjs=3
+&nbsp;",unavailable,unavailable,10/30/2024,false,unavailable,102,https://www.indeed.com/rc/clk?jk=af3bb9faa2d624a1&bb=lyZ3qW-O-wTejBMwvsaeQzKNHkuvD6JqfTWwrLBFKmIFa5dTXePVDssGYlkrlC9b9UJml9V8P2v0pCu_QOeKbFcaHo3KTVSDV9NwfX6PUp1VQUutPWXC-fNyT9LwzOKh&xkcb=SoDk67M3-QVq8w3MNB0MbzkdCdPP&fccid=9dd30dd046d9ac7a&vjs=3
+cbe4ec7b-e796-4674-b890-c36cb3b19f12,Software Engineering MTS,https://www.indeed.com/rc/clk?jk=17d43d0a5edca607&bb=lyZ3qW-O-wTejBMwvsaeQ74KwQOAeRCRMlsZv2j-IbPOybDWiAICS--E1w0igaOkBbmZusvMfHU-c-wDSijaqLa2Ps8-9fBVcMbiiL0WwucQrLqWnXJwxg%3D%3D&xkcb=SoAN67M3-QVq8w3MNB0DbzkdCdPP&fccid=4027cfd917e1ee29&vjs=3,unavailable,Salesforce,https://www.indeed.com/cmp/Salesforce?campaignid=mobvjcmp&from=mobviewjob&tk=1i2ges97rmht080a&fromjk=17d43d0a5edca607,1.2K,"To get the best candidate experience, please consider applying for a maximum of 3 roles within 12 months to ensure you are not duplicating efforts.
+
+Job Category
+
+Software Engineering
+
+Job Details
+
+About Salesforce
+
+We’re Salesforce, the Customer Company, inspiring the future of business with AI+ Data +CRM. Leading with our core values, we help companies across every industry blaze new trails and connect with customers in a whole new way. And, we empower you to be a Trailblazer, too — driving your performance and career growth, charting new paths, and improving the state of the world. If you believe in business as the greatest platform for change and in companies doing well and doing good – you’ve come to the right place.
+
+Salesforce Inc. seeks Software Engineering MTS in San Francisco, CA:
+
+Job Duties : Design, implement, test, and deliver highly scalable products. Develop test strategies, design automation frameworks, write unit/functional tests to drive up code coverage and automation metrics. Collaborate with other cloud engineers on creative solutions to help scale the capacity of the product. Present architecture and other relevant technical designs to a set of technical forums. Present own designs to internal/external groups and review designs of others. Responsible for financial services solutions for banks and finch companies. Responsible for full-stack solutions including backend, DB, front end, and server-side caching. Mentor others in development technologies, tools, and processes. Operates effectively in the hybrid engineering model where engineers are expected to design and execute the necessary work to ensure quality in their own code and the code of fellow engineers. ˆHQ address additionally encompasses the following Salesforce locations in San Francisco: 350 Mission Street, 415 Mission Street, and 50 Fremont Street. The permanent position may be offered at any of these locations in San Francisco. Telecommuting is an option. Some travel to Salesforce offices may be required.
+
+Minimum Requirements : Master’s degree (or its foreign degree equivalent) in Computer Science, Engineering (any field), or a related quantitative discipline, and six (6) months of experience in the job offered or in any occupation in a related field.
+
+A related technical degree required (Computer Science, Engineering (any field)).
+
+Special Skill Requirements : (1) Java; (2) Spring Boot; (3) JavaScript; (4) Spring Framework; (5) Maven; (6) MySQL; (7) RESTful web services; (8) Docker; (9) Bash; (10) Kubernetes; (11) MongoDB; and (12) Git. Any suitable combination of education, training and/or experience is acceptable. Telecommuting is an option. Some travel to Salesforce offices may be required.
+
+Salary : $147,368.00 - $188,600.00 per annum.
+
+Submit a resume using the apply button on this posting or by email at: onlinejobpostings@salesforce.com at Job# 23-133901. Salesforce is an Equal Opportunity & Affirmative Action Employer.
+
+#LI-DNI
+
+Accommodations
+
+If you require assistance due to a disability applying for open positions please submit a request via this Accommodations Request Form .
+
+Posting Statement
+
+At Salesforce we believe that the business of business is to improve the state of our world. Each of us has a responsibility to drive Equality in our communities and workplaces. We are committed to creating a workforce that reflects society through inclusive programs and initiatives such as equal pay, employee resource groups, inclusive benefits, and more. Learn more about Equality at www.equality.com and explore our company benefits at www.salesforcebenefits.com .
+
+Salesforce is an Equal Employment Opportunity and Affirmative Action Employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender perception or identity, national origin, age, marital status, protected veteran status, or disability status. Salesforce does not accept unsolicited headhunter and agency resumes. Salesforce will not pay any third-party agency or company that does not have a signed agreement with Salesforce . ﻿
+
+Salesforce welcomes all.
+
+Pursuant to the San Francisco Fair Chance Ordinance and the Los Angeles Fair Chance Initiative for Hiring, Salesforce will consider for employment qualified applicants with arrest and conviction records.
+
+For California-based roles, the base salary hiring range for this position is $147,368 to $188,600.
+
+Compensation offered will be determined by factors such as location, level, job-related knowledge, skills, and experience. Certain roles may be eligible for incentive compensation, equity, benefits. More details about our company benefits can be found at the following link: https://www.salesforcebenefits.com.",- Full-time,"$147,368 - $188,600 a year","$147,368 - $188,600 a year, ",unavailable,unavailable,unavailable,12/08/2024,false,unavailable,295,https://www.indeed.com/rc/clk?jk=17d43d0a5edca607&bb=lyZ3qW-O-wTejBMwvsaeQ74KwQOAeRCRMlsZv2j-IbPOybDWiAICS--E1w0igaOkBbmZusvMfHU-c-wDSijaqLa2Ps8-9fBVcMbiiL0WwucQrLqWnXJwxg%3D%3D&xkcb=SoAN67M3-QVq8w3MNB0DbzkdCdPP&fccid=4027cfd917e1ee29&vjs=3
+ea3e3eea-bc6b-4feb-8728-564429d6b5ac,Software Engineer (L4) - Continuous Integration,https://www.indeed.com/rc/clk?jk=afbc574084472c65&bb=lyZ3qW-O-wTejBMwvsaeQymXJToh5cesOLvgc8XJ1JINx02zBwUR4tGIDriiv_kNoX31PWRGWQ3UF9Z6i_X-R-15_R7g2mURdBa7Zf6d5cVglsQzgPKDNw%3D%3D&xkcb=SoC567M3-QVq8w3MNB0CbzkdCdPP&fccid=66403b30a2c0d89c&vjs=3,"Los Gatos, CA",Netflix,https://www.indeed.com/cmp/Netflix?campaignid=mobvjcmp&from=mobviewjob&tk=1i2gesgs4n5b2802&fromjk=afbc574084472c65,796,"Los Gatos, California
+
+Core Engineering
+Netflix is one of the world's leading entertainment services, with 270 million paid memberships in over 190 countries, enjoying TV series, films, and games across a wide variety of genres and languages. Members can play, pause, and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.
+
+Netflix’s source code is distributed across tens of thousands of code repositories written in numerous programming languages managed by thousands of engineers. Engineers are constantly making changes to these repositories, which are being built and tested on Netflix's continuous integration infrastructure, powered by Jenkins. Our Jenkins based infrastructure is hosted across 30+ controllers and 1000+ build agents to run over tens of thousands of build jobs a day. In addition to this mature CI platform, Netflix is currently exploring the future of CI to understand how we might address the needs of our users in the coming years. We are looking for engineers to join this team to manage and evolve our CI platform.
+Your Day-to-Day
+Driving feature work and taking ownership of services that are a part of Netflix’s Continuous Integration platform that operates and manages various aspects of the CI tooling.
+Operate and maintain Jenkins and its build agents while keeping plugins and version upgrades current.
+Collaborate with various other Platform teams to ensure their systems can integrate with our CI Platform.
+Support cross-organization critical change campaigns across a wide variety of source code repositories.
+Support customers with a variety of build and environment needs.
+Work cross-functionally to build new services, tools, and data models to operationalize our workflows at scale.
+Participate in product reviews and team meetings, providing technical insight. Help scope, estimate, and prioritize between conflicting needs.
+Evaluate new technologies and approaches to streamline and improve our rapid application development tooling and conventions.
+Regularly learn new systems and tools as the Netflix platform and ecosystem evolve.
+Participate in our on-call rotation and contribute to incident reviews.
+You may enjoy working with us if:
+You are self-driven and highly motivated to deliver top-tier solutions with minimal guidance. You also recognize when you're wrong, learning from your mistakes and moving past them.
+You enjoy collaborating and pairing with engineers to understand what they want, figure out what they really need, and finally, what we should build.
+You strive to embrace best practices and are always searching for opportunities to continually improve.
+We would love working with you if:
+You are excited to be working with Java or other JVM languages.
+You have experience running and operating continuous integration systems like Jenkins, CircleCI, GitHub Actions and others.
+You are passionate about solving developer productivity challenges for engineers at the enterprise scale.
+You are adept at designing and building APIs for customers, in particular with GraphQL.
+You excel at working with microservice architectures.
+You are experienced with relational and non-relational data stores.
+Here’s some stuff we’ve worked on:
+How We Build Code at Netflix
+Towards True Continuous Integration
+Evolving Continuous Integration at Netflix
+How Netflix Autoscales CI
+Our compensation structure consists solely of an annual salary; we do not have bonuses. You choose each year how much of your compensation you want in salary versus stock options. To determine your personal top of market compensation, we rely on market indicators and consider your specific job family, background, skills, and experience to determine your compensation in the market range. The range for this role is $100,000- $720,000.
+
+Netflix provides comprehensive benefits including Health Plans, Mental Health support, a 401(k) Retirement Plan with employer match, Stock Option Program, Disability Programs, Health Savings and Flexible Spending Accounts, Family-forming benefits, and Life and Serious Injury Benefits. We also offer paid leave of absence programs. Full-time hourly employees accrue 35 days annually for paid time off to be used for vacation, holidays, and sick paid time off. Full-time salaried employees are immediately entitled to flexible time off. See more details about our Benefits here.
+
+Netflix is a unique culture and environment. Learn more here.
+
+We are an equal-opportunity employer and celebrate diversity, recognizing that diversity of thought and background builds stronger teams. We approach diversity and inclusion seriously and thoughtfully. We do not discriminate on the basis of race, religion, color, ancestry, national origin, caste, sex, sexual orientation, gender, gender identity or expression, age, disability, medical condition, pregnancy, genetic makeup, marital status, or military service.",- Full-time,"$100,000 - $720,000 a year","$100,000 - $720,000 a year, ","Benefits
+Pulled from the full job description
+401(k) matching
+Flexible spending account
+Health insurance
+Paid time off
+Stock options
+&nbsp;",unavailable,unavailable,12/10/2024,false,unavailable,64,https://www.indeed.com/rc/clk?jk=afbc574084472c65&bb=lyZ3qW-O-wTejBMwvsaeQymXJToh5cesOLvgc8XJ1JINx02zBwUR4tGIDriiv_kNoX31PWRGWQ3UF9Z6i_X-R-15_R7g2mURdBa7Zf6d5cVglsQzgPKDNw%3D%3D&xkcb=SoC567M3-QVq8w3MNB0CbzkdCdPP&fccid=66403b30a2c0d89c&vjs=3
+a9f4062e-96dd-41bf-b7c3-9c8115e61e58,Software Engineering SMTS,https://www.indeed.com/rc/clk?jk=d55b20a8fec28e41&bb=lyZ3qW-O-wTejBMwvsaeQ4zvCVTANt_dwZY02EV0npkFiY8xGXLTWAYdXy-CcimC33orIc_I94Y9jlF8rkzSiZvGdoCBZlEDXhqdrwerv62hnzrhig2Yag%3D%3D&xkcb=SoAk67M3-QVq8w3MNB0BbzkdCdPP&fccid=4027cfd917e1ee29&vjs=3,unavailable,Salesforce,https://www.indeed.com/cmp/Salesforce?campaignid=mobvjcmp&from=mobviewjob&tk=1i2gesnlag05g800&fromjk=d55b20a8fec28e41,1.2K,"To get the best candidate experience, please consider applying for a maximum of 3 roles within 12 months to ensure you are not duplicating efforts.
+
+Job Category
+
+Software Engineering
+
+Job Details
+
+About Salesforce
+
+We’re Salesforce, the Customer Company, inspiring the future of business with AI+ Data +CRM. Leading with our core values, we help companies across every industry blaze new trails and connect with customers in a whole new way. And, we empower you to be a Trailblazer, too — driving your performance and career growth, charting new paths, and improving the state of the world. If you believe in business as the greatest platform for change and in companies doing well and doing good – you’ve come to the right place.
+
+Salesforce Inc. seeks Software Engineering SMTS in Palo Alto, CA:
+
+Job Duties : Design and develop innovative software for Tableau’s next-generation Visual Analytics and Collaboration suite. Utilize high-level, object-oriented programming languages in the design and development of software. Analyze and provide detailed feedback on requirements and design documents for major software features. Implement software for Tableau’s server and desktop products using large-scale C++ systems on Windows platforms, as well as Windows technologies, development tools, and web-based technologies. Design and architect software applications and user interfaces, and perform build and release engineering on Windows, Mac and Linux platforms. Write automated tests, including unit tests and black box tests, using modern scripting languages, including Ruby and Python. Produce design documents, write code, build code, write test cases, and perform unit and integration testing. Work with customers and the Support and Quality Assurance (QA) teams to resolve bugs and technical support issues and improve the software development process by building and deploying tools for the development team, utilizing Agile development methodologies. Telecommuting is an option. Some travel to Salesforce offices may be required.
+
+Minimum Requirements : Master’s degree (or its foreign degree equivalent) in Computer Science, Engineering (any field), or a related quantitative discipline, and two (2) years of experience in the job offered or in any occupation in a related field.
+
+A related technical degree required (Computer Science, Engineering (any field)).
+
+Special Skill Requirements : (1) Designing and developing software utilizing high-level, object-oriented programming languages; (2) Gathering and identifying business requirements to develop technical solutions that meet customer and stakeholder expectations; (3) Producing design documents; (4) Writing code; (5) Building code; (6) Writing test cases; and (7) Performing unit and integration testing. Any suitable combination of education, training and/or experience is acceptable. Telecommuting is an option. Some travel to Salesforce offices may be required.
+
+Salary : $234,062.00 - $236,000.00 per annum.
+
+Submit a resume using the apply button on this posting or by email at: onlinejobpostings@salesforce.com at Job# 19-7537. Salesforce is an Equal Opportunity & Affirmative Action Employer.
+
+#LI-DNI
+
+Accommodations
+
+If you require assistance due to a disability applying for open positions please submit a request via this Accommodations Request Form .
+
+Posting Statement
+
+At Salesforce we believe that the business of business is to improve the state of our world. Each of us has a responsibility to drive Equality in our communities and workplaces. We are committed to creating a workforce that reflects society through inclusive programs and initiatives such as equal pay, employee resource groups, inclusive benefits, and more. Learn more about Equality at www.equality.com and explore our company benefits at www.salesforcebenefits.com .
+
+Salesforce is an Equal Employment Opportunity and Affirmative Action Employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender perception or identity, national origin, age, marital status, protected veteran status, or disability status. Salesforce does not accept unsolicited headhunter and agency resumes. Salesforce will not pay any third-party agency or company that does not have a signed agreement with Salesforce . ﻿
+
+Salesforce welcomes all.
+
+Pursuant to the San Francisco Fair Chance Ordinance and the Los Angeles Fair Chance Initiative for Hiring, Salesforce will consider for employment qualified applicants with arrest and conviction records.
+
+For California-based roles, the base salary hiring range for this position is $234,062 to $236,000.
+
+Compensation offered will be determined by factors such as location, level, job-related knowledge, skills, and experience. Certain roles may be eligible for incentive compensation, equity, benefits. More details about our company benefits can be found at the following link: https://www.salesforcebenefits.com.",- Full-time,"$234,062 - $236,000 a year","$234,062 - $236,000 a year, ",unavailable,unavailable,unavailable,10/29/2024,false,unavailable,295,https://www.indeed.com/rc/clk?jk=d55b20a8fec28e41&bb=lyZ3qW-O-wTejBMwvsaeQ4zvCVTANt_dwZY02EV0npkFiY8xGXLTWAYdXy-CcimC33orIc_I94Y9jlF8rkzSiZvGdoCBZlEDXhqdrwerv62hnzrhig2Yag%3D%3D&xkcb=SoAk67M3-QVq8w3MNB0BbzkdCdPP&fccid=4027cfd917e1ee29&vjs=3
+a89e357f-f12d-4e5a-b971-481bc08164ff,"Analyst II, Full Stack",https://www.indeed.com/rc/clk?jk=6c436c8ce7df2f97&bb=lyZ3qW-O-wTejBMwvsaeQ4OF3lnL7fidjbYpysTedp1OCra4gZoOWBOXnKtqgELlwRHx0Hmkc72aewxS7nZeU44hoyLfwPGTsLCsK7ygxUn_YCqmrgt9D9pkLZwNqf7d&xkcb=SoCQ67M3-QVq8w3MNB0AbzkdCdPP&fccid=5cf4e54c5ef78aa7&vjs=3,unavailable,Affirm,https://www.indeed.com/cmp/Affirm?campaignid=mobvjcmp&from=mobviewjob&tk=1i2get04pn78p800&fromjk=6c436c8ce7df2f97,20,"Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest.
+
+The Credit team works cross-functionally with Machine Learning, Product, Engineering, Capital Markets, and Commercial teams to responsibly manage the risk profile of the business. We're looking for a thoughtful, driven individual who wants to learn, grow, and solve hard problems.
+
+The team's mandate is to enable sustainable growth while closely managing the profitability and resilience of our portfolio. As Affirm continues on an exciting growth trajectory, thinking through credit strategies for new initiatives and products, shaping ongoing testing and experimentation, and being ready for navigating through any exogenous changes will be important problems to tackle.
+
+This role requires extensive use of data analytics to derive insights and develop credit strategies. It also requires a lot of cross-functional partnership. Working with the Machine Learning and Engineering team to develop new underwriting models, with the Product teams to develop new products and features, with the Merchant Pricing team to value different merchants, with the Finance team to help facilitate discussions with debt and equity investors are some parts of the role.
+
+Come join us in our mission to change consumer finance through better data and technology, lower costs, and increased transparency while providing the best customer experience!
+
+What You'll Do
+
+Leverage experimentation and advanced data analytics to derive insights. Dissect complex data and translate it into actionable strategies to help optimize credit underwriting
+
+Determine and optimize purchasing power, ensuring they are set optimally to balance risk and growth, driving healthy user engagement
+
+Play a pivotal role in underwriting cost saving, managing risk and improving the profitability
+
+Support the launch of new products by designing and implementing credit strategies
+
+Partner with Machine Learning and Engineering teams on building effective credit risk capabilities
+
+What We Look For
+
+2-4 years of work experience as a data analyst/data scientist (consumer credit risk management strongly preferred but not required)
+
+Curious and passionate to learn new things and think outside the box
+
+Extensive experience with SQL and Python, or other scripting languages. Experience with Spark is a plus
+
+Experience/knowledge with Machine Learning is a plus
+
+Ability to collaborate and influence across different teams in the organization
+
+Ability to communicate findings and recommendations clearly to both technical and non-technical audiences
+
+A passion for finding insights in data and driving changes based on those insights
+
+Intelligence + Humility. Hubris is the fastest way to blow up a business!
+
+Grit. Lots of grit. You'll wear 7 hats and not love all of them
+
+
+Pay Grade - K
+Employees new to Affirm typically come in at the start of the pay range. Affirm focuses on providing a simple and transparent pay structure which is based on a variety of factors, including location, experience and job-related skills.
+
+Base pay is part of a total compensation package that may include equity rewards, monthly stipends for health, wellness and tech spending, and benefits (including 100% subsidized medical coverage, dental and vision for you and your dependents.)
+
+USA base pay range (CA, WA, NY, NJ, CT) per year: $140,000 - $190,000
+USA base pay range (all other U.S. states) per year: $124,000 - $174,000
+
+#LI-Remote
+
+Affirm is proud to be a remote-first company! The majority of our roles are remote and you can work almost anywhere within the country of employment. Affirmers in proximal roles have the flexibility to work remotely, but will occasionally be required to work out of their assigned Affirm office. A limited number of roles remain office-based due to the nature of their job responsibilities.
+
+We're extremely proud to offer competitive benefits that are anchored to our core value of people come first. Some key highlights of our benefits package include:
+
+Health care coverage - Affirm covers all premiums for all levels of coverage for you and your dependents
+Flexible Spending Wallets - generous stipends for spending on Technology, Food, various Lifestyle needs, and family forming expenses
+Time off - competitive vacation and holiday schedules allowing you to take time off to rest and recharge
+ESPP - An employee stock purchase plan enabling you to buy shares of Affirm at a discount
+
+We believe It's On Us to provide an inclusive interview experience for all, including people with disabilities. We are happy to provide reasonable accommodations to candidates in need of individualized support during the hiring process.
+
+[For U.S. positions that could be performed in Los Angeles or San Francisco] Pursuant to the San Francisco Fair Chance Ordinance and Los Angeles Fair Chance Initiative for Hiring Ordinance, Affirm will consider for employment qualified applicants with arrest and conviction records.
+
+By clicking ""Submit Application,"" you acknowledge that you have read the Affirm Employment Privacy Policy for applicants within the United States, the EU Employee Notice Regarding Use of Personal Data (Poland) for applicants applying from Poland, the EU Employee Notice Regarding Use of Personal Data (Spain) for applicants applying from Spain, or the Affirm U.K. Limited Employee Notice Regarding Use of Personal Data for applicants applying from the United Kingdom, and hereby freely and unambiguously give informed consent to the collection, processing, use, and storage of your personal information as described therein.",unavailable,"$124,000 - $190,000 a year",unavailable,"Benefits
+Pulled from the full job description
+Dental insurance
+Employee stock purchase plan
+Health insurance
+Vision insurance
+&nbsp;",unavailable,unavailable,10/13/2024,false,unavailable,30,https://www.indeed.com/rc/clk?jk=6c436c8ce7df2f97&bb=lyZ3qW-O-wTejBMwvsaeQ4OF3lnL7fidjbYpysTedp1OCra4gZoOWBOXnKtqgELlwRHx0Hmkc72aewxS7nZeU44hoyLfwPGTsLCsK7ygxUn_YCqmrgt9D9pkLZwNqf7d&xkcb=SoCQ67M3-QVq8w3MNB0AbzkdCdPP&fccid=5cf4e54c5ef78aa7&vjs=3
+0666a90a-716c-472c-8f7f-2377d8389654,Health Economic Software Developer Associate,https://www.indeed.com/rc/clk?jk=f20e823644d24121&bb=lyZ3qW-O-wTejBMwvsaeQ6ybOeqp8Ox1C_zO0S8zp_tAR4VZY2otZqkF0MYrl7lCqnoKOlgHdnCYDWbVfw1LNNKW4KgbXBBQIlu7dqeSy-uowKGcH9bUsw%3D%3D&xkcb=SoAe67M3-QVq8w3MNB0HbzkdCdPP&fccid=1ba7f338730ce720&vjs=3,"Stanford, CA",Stanford University,https://www.indeed.com/cmp/Stanford-University?campaignid=mobvjcmp&from=mobviewjob&tk=1i2get7tjn595800&fromjk=f20e823644d24121,1.1K,"Stanford Health Policy (SHP) at Stanford University is seeking a Software Developer Associate, under general supervision, execute all programming tasks, including programming, analyzing, designing, developing, implementing, modifying, and maintaining computer programs. Work on systems of small size and elementary complexity or segments of larger systems under general supervision. SHP invites applicants for a full-time Health Economic Software Developer Associate position, to develop microsimulation models to inform policy relating to cancer, and other non-communicable diseases.
+
+SHP produces interdisciplinary, world-class research on domestic and international health that advances our understanding of how health care can be delivered and shapes the formulation of health care policy worldwide. This critical work takes place across campus with multiple schools, organizations and individuals. At SHP, our mission focuses on interdisciplinary innovation, discovery, and education to improve health policy. To achieve this mission, we develop and apply cutting-edge methodology from decision sciences, statistics, machine learning, AI, and health economics. The development and use of microsimulation models is essential to evaluate current and yet-to-be-observed health policies.
+
+SHP seeks a Health Economic Software Developer Associate to join the modeling team led by Assistant Professor Fernando Alarid-Escudero that conducts modeling analyses on the health impact, costs and cost-effectiveness of cancer, other non-communicable diseases and infectious disease prevention and treatment programs to inform health policy and guide public health decision-making and prioritize future research at local, state, national and international levels. The Health Economic Software Developer Associate will join multi-institutional research groups, including CISNET (https://cisnet.cancer.gov), a consortium of cancer modelers funded by NCI that focus on the long-term objective of reducing the impact of cancer by providing the information needed to address key policy questions and prioritize future research, and The Decision Analysis in R for Technologies in Health (DARTH) workgroup (https://darthworkgroup.com). The successful applicant will take a lead role in the development and application of microsimulation models and contribute to a broader portfolio of projects through regular participation in working groups.
+
+Stanford University is an equal-opportunity employer and is committed to increasing the diversity of its faculty and academic staff. It welcomes nominations of and applications from women and members of minority groups, as well as others who would bring additional dimensions to the University’s research, teaching, and clinical missions. The culture of the group is inquisitive, collaborative, and inclusive so that team members can do their best work. We have high standards for rigor, quality, and ethics and help each other learn to reach these objectives.
+
+The Health Economic Software Developer Associate will execute all programming tasks, including programming, analyzing, designing, developing, implementing, modifying, and maintaining computer programs. Work on systems of small to moderate size and complexity or segments of larger systems. More specifically, the appointed person will work on simulation model-based evaluation of health policies, medical technologies including pharmaceuticals, therapeutic devices, and diagnostics; public health and social care research; development of methods; and evaluative research focusing on the U.S. and low- and middle-income countries.
+
+The Health Economic Software Developer Associate will have training opportunities to develop their analytical skills in economic evaluation, including advanced decision analysis, microsimulation simulation modeling, statistical analysis of individual-level data, data science, AI, and evidence synthesis.
+
+Duties include:
+
+Assess user needs and requirements.
+Assist with design and development of applications that may involve sophisticated data manipulation.
+Assist with maintaining and updating existing programs.
+Troubleshoot and solve basic technical problems.
+Assist in the design and implementation of user and operations training programs.
+Contribute to documenting changes in software for end users.
+Follow team software development methodology.
+Suggest improvements and/or changes to help increase efficiency.
+Collaborate with researchers at Stanford and partner institutions, to conceptualize, design, develop and program microsimulation models.
+Collaborate with researchers at Stanford and partner institutions, to determine updates to microsimulation models.
+Debug microsimulation models’ code and collaborate with researchers at Stanford and partner institutions to develop solutions and methods to solve technical problems.
+Follow coding framework and standards developed by Stanford researchers based on the DARTH’s coding framework (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6871515/)
+Write, update and maintain documentation to describe model development, structure, logic, coding, and testing.
+Maintain and update current microsimulation models for policy analysis and health economic evaluation.
+Continuously develop unit tests to make sure the codes or functions are secure.
+Author and publish abstracts, poster presentations and research articles based on the model and modeling results
+Assist in developing research proposals, progress reports, and final reports for external and internal sponsored research.
+
+
+- Other duties may also be assigned
+
+The job duties listed are typical examples of work performed by positions in this job classification and are not designed to contain or be interpreted as a comprehensive inventory of all duties, tasks, and responsibilities. Specific duties and responsibilities may vary depending on department or program needs without changing the general nature and scope of the job or level of responsibility. Employees may also perform other duties as assigned.
+
+This role is open to candidates anywhere in the United States. Stanford University has five Regional Pay Structures The compensation for this position will be based on the location of the successful candidate. The expected pay range for this position is $37.50 to $48.08 per hour.
+
+Stanford University provides pay ranges representing its good faith estimate of what the university reasonably expects to pay for a position. The pay offered to a selected candidate will be determined based on factors such as (but not limited to) the scope and responsibilities of the position, the qualifications of the selected candidate, departmental budget availability, internal equity, geographic location, and external market pay for comparable jobs.
+
+At Stanford University, base pay represents only one aspect of the comprehensive rewards package. The Cardinal at Work website (https://cardinalatwork.stanford.edu/benefits-rewards) provides detailed information on Stanford’s extensive range of benefits and rewards offered to employees. Specifics about the rewards package for this position may be discussed during the hiring process.
+
+Consistent with its obligations under the law, the University will provide reasonable accommodations to applicants and employees with disabilities. Applicants requiring a reasonable accommodation for any part of the application or hiring process should contact Stanford University Human Resources at stanfordelr@stanford.edu. For all other inquiries, please submit a contact form.
+
+Stanford is an equal employment opportunity and affirmative action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or any other characteristic protected by law.
+
+DESIRED QUALIFICATIONS:
+
+Experience in a quantitative discipline such as economics, finance, statistics, engineering, computer science, computer engineering, electrical engineering, software engineering, applied mathematics, or a related field.
+Strong background in mathematical/statistical or computational techniques.
+Strong programming skills in R, Python, or other languages.
+Experience with unit tests tools
+Experience in software accessibility, reproducibility and open science programming
+Developing and documenting functions
+Developing and documenting packages
+Developing Markdown or quarto documents.
+Data wrangling.
+Data visualization (e.g., proficient use in the ggplot package).
+Preferable skills in shiny apps
+Experience in using private and public repositories in git-based platforms (e.g., GitHub)
+Create new repositories.
+Track changes in history.
+Use issues.
+Work in parallel on the same project by branching the work into separate branches.
+Track record of good practices for coding reproducibility and transparency.
+Experience in developing simulation models.
+Ability to work independently and under deadlines is essential.
+Excellent organizational skills and demonstrated ability to complete detailed work accurately and thoroughly.
+Ability to work collaboratively as a member of a research team that includes investigators based inside and outside Stanford.
+Training in health economics, public health, medicine, or biology.
+Interest in health policy and public health.
+Prior experience in collaborative empirical research.
+Be passionate about software quality and be prepared to advocate on behalf of good processes and best practices.
+
+
+
+
+EDUCATION & EXPERIENCE (REQUIRED):
+
+Bachelor's degree or a combination of education and relevant experience.
+
+KNOWLEDGE, SKILLS AND ABILITIES (REQUIRED):
+
+Familiarity with latest software and design standards.
+Ability to solve logical problems for technical applications.
+Knowledge of and ability to select, adapt, and effectively use programming methods.
+Ability to recognize and recommend needed changes in user and/or operations procedures.
+Basic knowledge of software engineering principles.
+Strong knowledge of at least one programming language.
+
+CERTIFICATIONS & LICENSES:
+
+None
+
+PHYSICAL REQUIREMENTS*:
+
+Constantly perform desk-based computer tasks.
+Frequently sit, grasp lightly/fine manipulation.
+Occasionally stand/walk, writing by hand.
+Rarely use a telephone, lift/carry/push/pull objects that weigh up to 10 pounds
+- Consistent with its obligations under the law, the University will provide reasonable accommodation to any employee with a disability who requires accommodation to perform the essential functions of his or her job.
+
+
+WORKING CONDITIONS:
+
+May work extended hours, evening and weekends.",- Full-time,$37.50 - $48.08 an hour,"$37.50 - $48.08 an hour, ",unavailable,unavailable,unavailable,10/28/2024,false,unavailable,645,https://www.indeed.com/rc/clk?jk=f20e823644d24121&bb=lyZ3qW-O-wTejBMwvsaeQ6ybOeqp8Ox1C_zO0S8zp_tAR4VZY2otZqkF0MYrl7lCqnoKOlgHdnCYDWbVfw1LNNKW4KgbXBBQIlu7dqeSy-uowKGcH9bUsw%3D%3D&xkcb=SoAe67M3-QVq8w3MNB0HbzkdCdPP&fccid=1ba7f338730ce720&vjs=3
+212f08b2-bfd3-4aa0-9b4d-4ab8aec443a9,Programmer Analyst I,https://www.indeed.com/rc/clk?jk=6818e378013dcfd6&bb=lyZ3qW-O-wTejBMwvsaeQ2AUHN8PC8qhvGykMoCXz9oKJ4pYDK7g6a5AaBZS9AYQlVIoAm0weiatfeLZMEfwOumxAUK6aAnkRK_uowW0gALTj7IPSOa6MwreX06uJpgz&xkcb=SoCq67M3-QVq8w3MNB0GbzkdCdPP&fccid=f829fe3e55027ab5&vjs=3,unavailable,Chabot - Las Positas Community College District,https://www.indeed.com/cmp/Chabot--las-Positas-Community-College-District?campaignid=mobvjcmp&from=mobviewjob&tk=1i2gethe3ku50800&fromjk=6818e378013dcfd6,11,"Position Type
+Classified
+
+
+Position Code
+1CMI68
+
+
+FTE
+1.0
+
+
+Pay Rate (or Annual Salary)
+$7,853.25/month
+
+
+Job Location
+Las Positas College, 3000 Campus Hill Dr., Livermore, CA 94551
+
+
+Department
+IT Services
+
+
+Job Summary
+The Chabot-Las Positas Community College District is seeking a Programmer Analyst I to be assigned to work at Las Positas College in Livermore, CA.
+
+SUMMARY DESCRIPTION
+Under general supervision (Programmer Analyst I/II) or direction (Senior Programmer Analyst I/II/III), program, design, develop, implement, and support application systems; and provide technical support of the District’s administrative computer software.
+
+DISTINGUISHING CHARACTERISTICS
+Positions in classes within the Programmer Analyst Class Series may be assigned a variety of duties from among those listed in the Representative Duties section or a combination of those and other related work functions. Duties include both primary responsibility and backup functions. Positions with different class titles within the series are not interchangeable; each class title requires a particular level of responsibility, independent initiative, and qualifying experience.
+
+Programmer Analyst I
+The Programmer Analyst I performs complex programming and assumes basic duties in systems analysis; the Programmer Analyst I is assigned tasks at the lowest level of difficulty within the series and, under the coordination of a Senior Programmer Analyst, may be assigned limited or backup responsibility for administering a major system. The Programmer Analyst I is expected to resolve technical problems after consultation with a Senior Programmer Analyst or management staff.
+
+Programmer Analyst II
+The Programmer Analyst II performs complex systems analysis and programming tasks. The Programmer Analyst II is assigned high levels of responsibility for systems analysis and, under the coordination of a Senior Programmer Analyst, may be assigned significant responsibility for administering major systems. This position may include lead responsibility for well defined projects of limited scope. The Programmer Analyst II is expected to resolve most technical problems on his/her own initiative, while major problems are solved after consultation with a Senior Programmer Analyst or management staff.
+
+Senior Programmer Analyst I
+The Senior Programmer Analyst I performs systems analysis and programming at the highest level of complexity and technical challenge. The Senior Programmer Analyst I may train or lead other ITS staff members in the more advanced aspects of analysis, problem definition, design, development, and modification of applications systems or utilities. The Senior Programmer Analyst I is assigned high levels of responsibility for administering major systems, performing these responsibilities with limited coordination. This position may include lead responsibility for major projects of broad scope. The Senior Programmer Analyst I is expected to resolve most technical problems on his/her own initiative while major problems are solved after consultation with a Senior Programmer Analyst II or management staff.
+
+Senior Programmer Analyst II
+The Senior Programmer Analyst II performs the same basic duties as the Senior Programmer Analyst I, but he/she also assumes some responsibility for database systems administration or operating systems administration. The database systems administration duties include Chabot-Las Positas Community College District Programmer Analyst Series (Continued) 2 basic tasks for software installs or upgrades performed under the direction of the chief senior database administrator for the District. These duties are performed with limited or backup responsibility for administering the Enterprise databases. The Senior Programmer Analyst II is assigned lead responsibility for entire application systems and is expected to provide project coordination, technical leadership, and technical direction to other ITS staff. The Senior Programmer Analyst II is expected to resolve technical problems on his/her own initiative and to consult with management staff on major strategic issues.
+
+Senior Programmer Analyst III
+The Senior Programmer Analyst III performs the same basic duties as the Senior Programmer Analyst II, but he/she also assumes full lead responsibility for all the database systems administration or operating systems administration. The Senior Programmer Analyst III is assigned the highest level of responsibility for administering the Enterprise database systems or operating systems and functions as the primary analyst in managing the database installations, upgrades, system monitoring, and performance tuning. This position holds lead responsibility for all the database and hardware systems supporting the Enterprise applications and is expected to provide project coordination, technical leadership, and technical direction to other ITS staff in any of the database related or operating system tasks. The Senior Programmer Analyst III serves in a project leadership role for all Enterprise system installations or upgrades with a high level of complexity. This position also provides the principal technical leadership for vendor software evaluations, product selection, and enhancement recommendations to the technology environment. The Senior Programmer Analyst III assists the Chief Technology Officer, ITS with project definitions, cost estimates, and scheduling and serves in a project management role from a technical standpoint for all major developmental projects. He/she serves as a mentor and provides technical advice and training to the other ITS programmer analysts including design reviews on complex programs. The Senior Programmer Analyst III is expected to resolve technical problems on his/her own initiative and to consult with management staff on new project evaluations/implementations and major strategic initiatives.
+
+
+
+Representative Duties
+The following duties are typical for this classification. Incumbents may not perform all of the listed duties and/or may be required to perform additional or different duties from those set forth below to address business needs and changing business practices.
+
+1. Analyze, define, and implement projects and systems; design programs, file structures, and other required elements of the system; plan and estimate resource requirements and completion dates for various phases of the project.
+
+2. Write programs and enter them to the system; test, correct, and verify program performance and accuracy; write documentation including system, file, program, operations, and user level documents.
+
+3. Install and maintain commercial applications systems acquired by the District; test and install upgrades and updates to existing software; design and implement reports, extensions, and interfaces to auxiliary systems.
+
+4. Perform maintenance and enhancement of locally-written systems and programs.
+
+5. Analyze and troubleshoot operating system software problems and system hardware malfunctions; assist vendors’ representatives in the resolution of these problems.
+
+6. Monitor, repair, maintain, and administer database systems and operating systems.
+
+7. Design, implement, and troubleshoot interfaces and control software for data communications systems and peripheral devices such as terminal servers and printers.
+
+8. Provide technical support of systems and software for users, technology staff, and other District staff as directed.
+
+9. Learn and use new technologies required to remain current in the field.
+
+10. Perform related duties as required.
+
+
+
+Minimum Education and Experience
+Any combination of the following would provide a typical way to obtain the required knowledge and abilities.
+
+Programmer Analyst I
+Education/Training:
+Equivalent to the completion of the twelfth grade supplemented by two years of college level course work in computer science or a related field.
+
+Experience:
+Two years of increasingly responsible programming experience that includes systems and applications analysis.
+
+Programmer Analyst II
+Education/Training:
+Equivalent to the completion of the twelfth grade supplemented by two years of college level course work in computer science or a related field.
+
+Experience:
+One year of experience comparable to that of a Programmer Analyst I with Chabot-Las Positas Community College District.
+
+Senior Programmer Analyst I
+Education/Training:
+A Bachelor’s degree from an accredited college or university with major course work in computer science or a related field.
+
+Experience:
+Two years of experience comparable to that of a Programmer Analyst II with Chabot-Las Positas Community College District.
+
+Senior Programmer Analyst II
+Education/Training:
+A Bachelor’s degree from an accredited college or university with major course work in computer science or a related field.
+
+Experience:
+Two years of experience comparable to that of a Senior Programmer Analyst I with ChabotLas Positas Community College District.
+
+Senior Programmer Analyst III
+Education/Training:
+A Bachelor’s degree from an accredited college or university with major course work in computer science or a related field.
+
+Experience:
+Four years of experience comparable to that of a Senior Programmer Analyst II with ChabotLas Positas Community College District.
+
+
+
+Minimum Qualifications
+The following generally describes the knowledge and ability required to enter the job and/or be learned within a short period of time in order to successfully perform the assigned duties.
+
+Knowledge of:
+1. Systems analysis, problem definition, and system design.
+
+2. Programming and evaluation.
+
+3. Structured design and programming methods.
+
+4. Administrative applications, information services, and user functions.
+
+5. Data communications hardware and software.
+
+6. Computer programming languages, designs, and data manipulation techniques including, but not limited to, Oracle database and related programming utilities and tools, SQL query language, SQL report writers, C, and ANSI Cobol.
+
+7. Relational database table structures.
+
+8. Sequential, indexed, and relative file concepts.
+
+9. Relational database systems for transaction processing.
+
+10. Modern computer operating systems and related utilities, including Novel Netware, Unix/Linux, Windows server, and other modern operating systems and environments.
+
+11. Principles and methods of client-server systems and web based technologies.
+
+12. Basic principles and methods of data communications.
+
+13. College administrative functions and principles of modern business practices.
+
+Ability to:
+1. Analyze technical data and business situations using logical reasoning, problem definition.
+
+2. Problem solve, and develop effective plans and system designs.
+
+3. Write programs and apply structured program designs using programming utilities, editors, and tools.
+
+4. Read and understand programs and systems developed by others.
+
+5. Complete complex tasks without close supervision.
+
+6. Provide technical coordination for projects.
+
+7. Adapt to changing technologies and learn functionality of new equipment and systems.
+
+8. Communicate clearly and concisely, both orally and in writing.
+
+9. Establish and maintain effective working relationships with those contacted in the course of work.
+
+10. Work with and exhibit sensitivity to and understanding of the varied racial, ethnic, cultural, sexual orientation, academic, socio-economic, and disabled populations of community college students.
+
+
+
+Desirable Qualifications
+Experience with Ellucian Banner, Ellucian Data Connect/Ethos, and Ellucian CRMs.
+
+
+
+Job Work Schedule
+40 hours/week, Monday – Friday, 8:00 a.m. – 5:00 p.m., hours may vary depending on department needs, occasional evening and weekends required as needed, 12 months/year.
+
+
+Physical Demands and Working Environment
+The conditions herein are representative of those that must be met by an employee to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential job functions.
+
+Environment:
+Work is performed primarily in a standard office setting.
+
+Physical:
+Primary functions require sufficient physical ability and mobility to work in an office setting; to stand or sit for prolonged periods of time; to occasionally stoop, bend, kneel, crouch, reach, and twist; to lift, carry, push, and/or pull light to moderate amounts of weight; to operate office equipment requiring repetitive hand movement and fine coordination including use of a computer keyboard; and to verbally communicate to exchange information.
+
+
+
+EEO Statement
+
+It is the policy of this District to provide equal opportunity in all areas of
+employment practices and to assure that there shall be no discrimination against
+any person on the basis of sex, ancestry, age, marital status, race, religious
+creed, mental disability, medical condition (including HIV and AIDS), color,
+national origin, physical disability, family or sexual preference status and other
+similar factors in compliance with Title IX, Sections 503 and 504 of the
+Rehabilitation Act, other federal and state non-discrimination regulations, and its
+own statements of philosophy of objectives. The District encourages the filing of
+applications by both sexes, ethnic minorities, and the disabled.
+
+
+
+Posting Detail Information
+
+Posting Number
+AS731P
+
+
+Open Date
+07/08/2024
+
+
+Close Date
+07/29/2024
+
+
+Open Until Filled
+No
+
+
+Special Instructions to Applicants
+The Board of Trustees has updated Board Policy 7330 to incorporate information on COVID vaccination requirements, which are currently suspended. Accordingly, employee(s) must comply with the Board Policy found at:http://districtazure.clpccd.org/policies/files/docs/BP7330.pdf.
+
+Any subsequent updates can be found here: http://districtazure.clpccd.org/urgentalerts/index.php.
+
+
+
+Notification to Applicants
+
+The Chabot-Las Positas Community College District reserves the right to close or not fill any advertised position
+
+
+
+
+
+Instructions for Personal Qualifications Statement
+
+The purpose of the personal qualifications statement is for you to provide information on how your education and experience relate to the requirements and duties of the position. There is no form to complete. Applicants are requested to provide their personal qualifications statement by uploading a document, the same way as you do for your cover letter.
+
+
+
+Supplemental Questions
+
+Required fields are indicated with an asterisk (*).
+
+Documents Needed To Apply
+Required Documents
+Resume
+Cover Letter
+Personal Qualifications Statement
+Optional Documents
+Transcripts/Credentials/Licenses
+Other Document",- Full-time,"$7,853.25 a month","$7,853.25 a month, ",unavailable,unavailable,unavailable,10/31/2024,false,unavailable,9,https://www.indeed.com/rc/clk?jk=6818e378013dcfd6&bb=lyZ3qW-O-wTejBMwvsaeQ2AUHN8PC8qhvGykMoCXz9oKJ4pYDK7g6a5AaBZS9AYQlVIoAm0weiatfeLZMEfwOumxAUK6aAnkRK_uowW0gALTj7IPSOa6MwreX06uJpgz&xkcb=SoCq67M3-QVq8w3MNB0GbzkdCdPP&fccid=f829fe3e55027ab5&vjs=3
+d6042d73-cd89-4635-a5a5-06e6ce975c5f,Software Engineering SMTS,https://www.indeed.com/rc/clk?jk=5c887cc7b0d9ccc2&bb=lyZ3qW-O-wTejBMwvsaeQwLtR0ajfE66eIxm8MqoLzDZWlb4_NrannqYFVvxPLEvu6wDuAkJP5WnBYKdqsgg1mL2nflbCoiDJr4glp2yqfXD0VW4aIB6oQ%3D%3D&xkcb=SoA367M3-QVq8w3MNB0FbzkdCdPP&fccid=4027cfd917e1ee29&vjs=3,unavailable,Salesforce,https://www.indeed.com/cmp/Salesforce?campaignid=mobvjcmp&from=mobviewjob&tk=1i2getnh52ntr00v&fromjk=5c887cc7b0d9ccc2,1.2K,"To get the best candidate experience, please consider applying for a maximum of 3 roles within 12 months to ensure you are not duplicating efforts.
+
+Job Category
+
+Software Engineering
+
+Job Details
+
+About Salesforce
+
+We’re Salesforce, the Customer Company, inspiring the future of business with AI+ Data +CRM. Leading with our core values, we help companies across every industry blaze new trails and connect with customers in a whole new way. And, we empower you to be a Trailblazer, too — driving your performance and career growth, charting new paths, and improving the state of the world. If you believe in business as the greatest platform for change and in companies doing well and doing good – you’ve come to the right place.
+
+Salesforce Inc. seeks Software Engineering SMTS in San Francisco, CA:
+
+Job Duties : Formulate, implement and evaluate algorithms for platform and application features in Java. Code in Javascript, HTML and CSS for front end development. Work closely with quality engineers, product management and Technical Operations. Analyze, design and develop test cases and implement automated test suits. Resolve complex technical issues and drive innovation that improves Salesforce.com. ˆHQ address additionally encompasses the following Salesforce locations in San Francisco: 350 Mission Street, 415 Mission Street, and 50 Fremont Street. The permanent position may be offered at any of these locations in San Francisco. Telecommuting is an option. Some travel to Salesforce offices may be required.
+
+Minimum Requirements : Master’s degree (or its foreign degree equivalent) in Computer Science, Engineering (any field), or a related quantitative discipline, and two (2) years of experience in the job offered or in any occupation in a related field, OR Bachelor’s degree (or its foreign degree equivalent) in Computer Science, Engineering (any field), or a related quantitative discipline, and five (5) years of progressively responsible experience in the job offered or related field.
+
+A related technical degree required (Computer Science, Engineering (any field)).
+
+Special Skill Requirements : (1) Oracle; (2) AWS; (3) Developing scalable infrastructure; (4) Algorithm design and analysis; (5) Distributed computing and systems; (6) Computer communication networks; and (7) Computer security. Special skills may be gained through academic coursework or employment experience.
+
+Any suitable combination of education, training and/or experience is acceptable. Telecommuting is an option. Some travel to Salesforce offices may be required.
+
+Salary : $215,197.00 - $227,700.00 per annum.
+
+Submit a resume using the apply button on this posting or by email at: onlinejobpostings@salesforce.com at Job# 20-2206. Salesforce is an Equal Opportunity & Affirmative Action Employer.
+
+#LI-DNI
+
+Accommodations
+
+If you require assistance due to a disability applying for open positions please submit a request via this Accommodations Request Form .
+
+Posting Statement
+
+At Salesforce we believe that the business of business is to improve the state of our world. Each of us has a responsibility to drive Equality in our communities and workplaces. We are committed to creating a workforce that reflects society through inclusive programs and initiatives such as equal pay, employee resource groups, inclusive benefits, and more. Learn more about Equality at www.equality.com and explore our company benefits at www.salesforcebenefits.com .
+
+Salesforce is an Equal Employment Opportunity and Affirmative Action Employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender perception or identity, national origin, age, marital status, protected veteran status, or disability status. Salesforce does not accept unsolicited headhunter and agency resumes. Salesforce will not pay any third-party agency or company that does not have a signed agreement with Salesforce . ﻿
+
+Salesforce welcomes all.
+
+Pursuant to the San Francisco Fair Chance Ordinance and the Los Angeles Fair Chance Initiative for Hiring, Salesforce will consider for employment qualified applicants with arrest and conviction records.
+
+For California-based roles, the base salary hiring range for this position is $215,197 to $227,700.
+
+Compensation offered will be determined by factors such as location, level, job-related knowledge, skills, and experience. Certain roles may be eligible for incentive compensation, equity, benefits. More details about our company benefits can be found at the following link: https://www.salesforcebenefits.com.",- Full-time,"$215,197 - $227,700 a year","$215,197 - $227,700 a year, ",unavailable,unavailable,unavailable,12/02/2024,false,unavailable,295,https://www.indeed.com/rc/clk?jk=5c887cc7b0d9ccc2&bb=lyZ3qW-O-wTejBMwvsaeQwLtR0ajfE66eIxm8MqoLzDZWlb4_NrannqYFVvxPLEvu6wDuAkJP5WnBYKdqsgg1mL2nflbCoiDJr4glp2yqfXD0VW4aIB6oQ%3D%3D&xkcb=SoA367M3-QVq8w3MNB0FbzkdCdPP&fccid=4027cfd917e1ee29&vjs=3
+e88e8554-22fd-42f7-b32a-48e854bcdd55,Software Development Engineer,https://www.indeed.com/rc/clk?jk=53ef813da544ee71&bb=76gEBLyIr6FfG_tWDtSi_CuBASF2DO-J-UYlox-z2nKbMPNvY-4kmjThgfqkSPrRFxSP9RVVRcK6cXSplmvbRddZJhw4HvFEhpt2_4qSp_GJqSIK_c8OHw%3D%3D&xkcb=SoAO67M3-QV4N9ysTp0LbzkdCdPP&fccid=9ac45d217f8342a1&vjs=3,unavailable,Workday,https://www.indeed.com/cmp/Workday?campaignid=mobvjcmp&from=mobviewjob&tk=1i2geu77bn8hs800&fromjk=53ef813da544ee71,190,"Your work days are brighter here.
+At Workday, it all began with a conversation over breakfast. When our founders met at a sunny California diner, they came up with an idea to revolutionize the enterprise software market. And when we began to rise, one thing that really set us apart was our culture. A culture which was driven by our value of putting our people first. And ever since, the happiness, development, and contribution of every Workmate is central to who we are. Our Workmates believe a healthy employee-centric, collaborative culture is the essential mix of ingredients for success in business. That’s why we look after our people, communities and the planet while still being profitable. Feel encouraged to shine, however that manifests: you don’t need to hide who you are. You can feel the energy and the passion, it's what makes us unique. Inspired to make a brighter work day for all and transform with us to the next stage of our growth journey? Bring your brightest version of you and have a brighter work day here.
+About the Team
+Workday is a leading Enterprise Cloud Applications provider developing and deploying a wide range of business applications. The Workday Architecture Group performs research on Workday’s future architecture, including building out proof of concepts and early products. If you appreciate the elegance and complexity of a highly available, scalable, secure, open and modern distributed platform and can perform quick yet accurate implementations, then this role could be a good fit.
+About the Role
+As a member of this team you’ll work with innovative and experienced engineers to work on the projects that will help define the future architecture of the Workday platform. You will take on the challenge of proving out advanced designs and scaling it to meet growing business needs while minimizing operational cost.
+Participate in the design of Workday’s future architecture
+Write code, develop tools, and perform other software engineering tasks necessary to prove out the architecture, in an iterative, agile environment
+Be able to move fast, yet generate high quality output, knowing that iteration is an important aspect of our development process
+Document design and code for maintainability
+Contribute ideas for continually improving the team's productivity, job enjoyment, and code quality
+Collaborate with architects, principal engineers and technical product managers to analyze functional requirements, devise architecture designs that provide real scalability, low latency, and high availability
+Be responsible for system performance and stability by proactively identifying and diagnosing issues and rapidly deploying code to address issues
+Be an enthusiast of our technologies and products. Influence and collaborate across functional teams in coming together towards a common business goal and data architecture
+About You
+Basic Qualifications
+5+ years of software engineering experience including object oriented programming in Java (version 8+, ideally 17+). Proficient in applying common design patterns, including dependency injection.
+1+ years in performance engineering or proven experience with operations, development, and testing of large scale distributed systems in production environments
+Other Qualifications
+BS in Computer Science or related fields Required Graduate degree preferred
+Experience in database implementation and/or use.
+Experience using or building distributed systems with an understanding of scalability, lock free algorithms, high availability, CAP theorem, etc.
+Experience with Java build tools such as Ant, Maven, Gerrit, Gradle, etc.
+DSL (Domain Specific Language) development knowledge or interest.
+Experience in Agile development methodologies: eXtreme Programming, Crystal Methods, Scrum.
+Experience or coursework in compilers, model driven development, distributed systems, databases, and/or language design.
+Web technologies including: React.js, Node.js, RESTful api, JSON, GraphQL and REST-based services
+SQL and NOSQL databases
+CI/CD: Github, Jenkins pipelines
+Working knowledge of cloud services such as AWS, Microsoft Azure, Google Cloud etc.
+Proven ability to balance multiple priorities and communicate across organizational boundaries
+Great team player
+
+Workday Pay Transparency Statement
+The annualized base salary ranges for the primary location and any additional locations are listed below. Workday pay ranges vary based on work location. As a part of the total compensation package, this role may be eligible for the Workday Bonus Plan or a role-specific commission/bonus, as well as annual refresh stock grants. Recruiters can share more detail during the hiring process. Each candidate’s compensation offer will be based on multiple factors including, but not limited to, geography, experience, skills, job duties, and business need, among other things. For more information regarding Workday’s comprehensive benefits, please
+click here
+.
+Primary Location: USA.CA.Pleasanton
+
+Primary Location Base Pay Range: $140,000 USD - $210,000 USD
+
+Additional US Location(s) Base Pay Range: $117,800 USD - $210,000 USD
+
+Our Approach to Flexible Work
+
+With Flex Work, we’re combining the best of both worlds: in-person time and remote. Our approach enables our teams to deepen connections, maintain a strong community, and do their best work. We know that flexibility can take shape in many ways, so rather than a number of required days in-office each week, we simply spend at least half (50%) of our time each quarter in the office or in the field with our customers, prospects, and partners (depending on role). This means you'll have the freedom to create a flexible schedule that caters to your business, team, and personal needs, while being intentional to make the most of time spent together. Those in our remote ""home office"" roles also have the opportunity to come together in our offices for important moments that matter.
+Pursuant to applicable Fair Chance law, Workday will consider for employment qualified applicants with arrest and conviction records.
+Workday is an Equal Opportunity Employer including individuals with disabilities and protected veterans.
+Are you being referred to one of our roles? If so, ask your connection at Workday about our Employee Referral process!",- Full-time,"$140,000 - $210,000 a year","$140,000 - $210,000 a year, ","Benefits
+Pulled from the full job description
+Flexible schedule
+&nbsp;",unavailable,unavailable,12/01/2024,false,unavailable,156,https://www.indeed.com/rc/clk?jk=53ef813da544ee71&bb=76gEBLyIr6FfG_tWDtSi_CuBASF2DO-J-UYlox-z2nKbMPNvY-4kmjThgfqkSPrRFxSP9RVVRcK6cXSplmvbRddZJhw4HvFEhpt2_4qSp_GJqSIK_c8OHw%3D%3D&xkcb=SoAO67M3-QV4N9ysTp0LbzkdCdPP&fccid=9ac45d217f8342a1&vjs=3
+825295dd-18fc-4bed-a11d-72af193d8680,"Software Engineer, Network Enablement",https://www.indeed.com/rc/clk?jk=7439a5be799c62fa&bb=76gEBLyIr6FfG_tWDtSi_Ore8q2F4UCId2IHu4F1qm5Xw66CwcFkQmq0C4M00sFHNNgOz3KrsWWaOda_j4xuu0UU7bW6m3MIH9im3po9ybaloSgEX3lUdDwVm7vJyO6B&xkcb=SoC667M3-QV4N9ysTp0KbzkdCdPP&fccid=4e377e595707b4dc&vjs=3,"San Francisco, CA",Plaid,https://www.indeed.com/cmp/Plaid-3?campaignid=mobvjcmp&from=mobviewjob&tk=1i2geuh1un7bo800&fromjk=7439a5be799c62fa,1,"The Network Enablement team is developing an end-to-end consent and privacy management system along with diverse data insight products for consumers, customers, and financial data partners, fostering a user-friendly and compliant open finance experience while enhancing Plaid’s network value.
+
+We are looking for a team member to design, build, and scale up the Open Finance products suite. This role will contribute to the hands-on development of the system across frontend, backend, and data infrastructures. You will also contribute in both technical designs and product ideations and set up the reusable platform components to enable faster yet robust product feature iterations.
+Responsibilities
+Developing solutions that make a difference for consumers, fintechs, and financial institutions.
+Collaborating with cross functional stakeholders.
+Working on both the 0 to 1 stage and the 1 to 10 stage of problems.
+Having an industry impact with the system you designed and implemented.
+Qualifications
+Product sense and understanding of customer needs.
+Passion for both prototyping early-stage products and scaling them up with robust platform solutions.
+Experience with frontend and backend developments, 20/80 split or vice versa.
+Experience with API product developments.
+Experience of implementing modern risk/compliance/privacy management systems.
+Experience of building data-intensive products, involving offline ETL, online serving.
+$143,640 - $197,640 a year
+Target base salary for this role is between $143,640 and $197,640 per year. Additional compensation in the form(s) of equity and/or commission are dependent on the position offered. Plaid provides a comprehensive benefit plan, including medical, dental, vision, and 401(k). Pay is based on factors such as (but not limited to) scope and responsibilities of the position, candidate's work experience and skillset, and location. Pay and benefits are subject to change at any time, consistent with the terms of any applicable compensation or benefit plans.",- Full-time,"$143,640 - $196,400 a year","$143,640 - $196,400 a year, ","Benefits
+Pulled from the full job description
+401(k)
+Dental insurance
+Health insurance
+Vision insurance
+&nbsp;",unavailable,unavailable,10/16/2024,false,unavailable,17,https://www.indeed.com/rc/clk?jk=7439a5be799c62fa&bb=76gEBLyIr6FfG_tWDtSi_Ore8q2F4UCId2IHu4F1qm5Xw66CwcFkQmq0C4M00sFHNNgOz3KrsWWaOda_j4xuu0UU7bW6m3MIH9im3po9ybaloSgEX3lUdDwVm7vJyO6B&xkcb=SoC667M3-QV4N9ysTp0KbzkdCdPP&fccid=4e377e595707b4dc&vjs=3
+bae5bcba-78df-49af-80c3-5d3e7a0c3af8,Website Developer (Full Stack),https://www.indeed.com/rc/clk?jk=e70dda2752678ce1&bb=76gEBLyIr6FfG_tWDtSi_J9xNjCPRELza9PGPcNKgicek26bruHhfa1-zIQ-pMxmjiq2lLE8Ee4tZNlGLL4d7EqaTZY8Ij5o63gO7yxjf6kCQ6Kz1bLJew%3D%3D&xkcb=SoAn67M3-QV4N9ysTp0JbzkdCdPP&fccid=26727f1861532c63&vjs=3,unavailable,unavailable,unavailable,unavailable,"Company Description
+
+Join us and make YOUR mark on the World!
+
+Are you interested in joining some of the brightest talent in the world to strengthen the United States’ security? Come join Lawrence Livermore National Laboratory (LLNL) where our employees apply their expertise to create solutions for BIG ideas that make our world a better place.
+
+We are committed to a diverse and equitable workforce with an inclusive culture that values and celebrates the diversity of our people, talents, ideas, experiences, and perspectives. This is important for continued success of the Laboratory’s mission.
+
+Pay Range
+
+$110,700 - $142,128 Annually at the SES.1 level
+$132,810 - $170,556 Annually at the SES.2 level
+
+Please note that the pay range information is a general guideline only. Many factors are taken into consideration when setting starting pay including education, experience, the external labor market, and internal equity.
+
+Job Description
+
+We have one opening for a Website Developer (Full Stack) matrixed to the Recharge Services Division within the Technical Information Department (TID). The selected candidate will be responsible for the design, development, and maintenance of external and internal websites. This position will work independently to develop website framework and content that meets the needs of external and internal collaborators, senior management, and administrative personnel. This position is in the IT Solutions Division within the LivIT Program in the Computing Directorate.
+
+This position offers a hybrid schedule, blending in-person and virtual presence. You will have the flexibility to work from home one or more days per week.
+
+This position will be filled at either level based on knowledge and related experience as assessed by the hiring team. Additional job responsibilities (outlined below) will be assigned if hired at the higher level.
+
+You will
+
+Collaborate with UX Designers to develop front end interfaces and UI interactions while ensuring best practices including responsive design.
+Work with the team lead to develop and implement innovative ideas for continually improving user experience, code quality, and productivity.
+Manage Linux servers running RHEL. Configure and maintain open-source tools and software such as Apache, NGINX, MariaDB, SMTP, DNS, and SSH.
+Develop custom work-group applications to fulfill a variety of needs as directed by the client.
+Partner with clients, graphic designers, and editors to define, develop, and establish objectives to meet the web specification requirements for projects, frequently responsible for customer contact and consultation.
+Independently address technical issues and provide solutions related to institutional compatibility, support, and system needs.
+Independent interactions with all levels of personnel within own organization and frequent interactions with customers.
+Perform other duties as assigned.
+
+Additional job responsibilities, at the SES.2 level
+
+Provide direction on best practices and implementation of web applications, CMS utilization, UI/UX design principals, and scripting for multiple internal and external sites.
+Identify and present improvements to the WordPress farm and relevant technology and tools that can be leveraged for custom development efforts.
+Independently determine project objectives and scope, establishing commitments of cost, schedule, and quality of assignments.
+Qualifications
+Ability to secure and maintain a U.S. DOE Q-level security clearance which requires U.S. citizenship.
+Bachelor’s degree in Computer Science, Computer Information Systems, or related field, or the equivalent combination of education and related experience.
+Knowledge of server architecture and troubleshooting, Linux, Apache, and MySQL. Knowledge of MySQL, HTML, CSS, JavaScript, and PHP.
+Experience using latest technologies and practices with a diverse set of software and applications, such as Docker, MariaDB, MongoDB, and Git.
+Experience building sites, developing themes, and creating/modifying modules for Content Management Systems (CMS), such as Drupal, WordPress, and Liferay.
+Knowledge of current trends and best practices in web architecture and design such as performance, accessibility, UI/UX design, prototyping, scalability, compliance, and usability.
+Familiarity with JavaScript frameworks such as React or Angular.
+Experience managing projects and establishing commitments while demonstrating written and verbal communication skills necessary to interact tactfully and effectively with a diverse group of personalities, disciplines, and customers.
+
+Additional qualifications at the SES.2 level
+
+Significant experience establishing commitments of cost, schedule, scope, and quality of projects with limited direction.
+Comprehensive knowledge of LAMP server architecture and troubleshooting.
+Comprehensive knowledge of the latest technologies and best practices in CMS, web architecture, scripting, UI/UX design principles, and framework software.
+
+Qualifications We Desire
+
+Proficiency with build tools such as Node.js, NPM, Docker or Laravel.
+Knowledge of caching mechanisms like varnish, Memcached, Redis
+Additional Information
+
+#LI-Hybrid
+
+Position Information
+
+This is a Career Indefinite position, open to Lab employees and external candidates.
+
+Why Lawrence Livermore National Laboratory?
+
+Included in 2024 Best Places to Work by Glassdoor!
+Flexible Benefits Package
+401(k)
+Relocation Assistance
+Education Reimbursement Program
+Flexible schedules (*depending on project needs)
+Inclusion, Diversity, Equity and Accountability (IDEA) - visit https://www.llnl.gov/diversity
+Our core beliefs - visit https://www.llnl.gov/diversity/our-values
+Employee engagement - visit https://www.llnl.gov/diversity/employee-engagement
+
+Security Clearance
+
+This position requires a Department of Energy (DOE) Q-level clearance. If you are selected, we will initiate a Federal background investigation to determine if you meet eligibility requirements for access to classified information or matter. Also, all L or Q cleared employees are subject to random drug testing. Q-level clearance requires U.S. citizenship.
+
+Pre-Employment Drug Test
+
+External applicant(s) selected for this position must pass a post-offer, pre-employment drug test. This includes testing for use of marijuana as Federal Law applies to us as a Federal Contractor.
+
+How to identify fake job advertisements
+
+Please be aware of recruitment scams where people or entities are misusing the name of Lawrence Livermore National Laboratory (LLNL) to post fake job advertisements. LLNL never extends an offer without a personal interview and will never charge a fee for joining our company. All current job openings are displayed on the Career Page under “Find Your Job” of our website. If you have encountered a job posting or have been approached with a job offer that you suspect may be fraudulent, we strongly recommend you do not respond.
+
+To learn more about recruitment scams: https://www.llnl.gov/sites/www/files/2023-05/LLNL-Job-Fraud-Statement-Updated-4.26.23.pdf
+
+Equal Employment Opportunity
+
+We are an equal opportunity employer that is committed to providing all with a work environment free of discrimination and harassment. All qualified applicants will receive consideration for employment without regard to race, color, religion, marital status, national origin, ancestry, sex, sexual orientation, gender identity, disability, medical condition, pregnancy, protected veteran status, age, citizenship, or any other characteristic protected by applicable laws.
+
+We invite you to review the Equal Employment Opportunity posters which include EEO is the Law and Pay Transparency Nondiscrimination Provision.
+
+Reasonable Accommodation
+
+Our goal is to create an accessible and inclusive experience for all candidates applying and interviewing at the Laboratory. If you need a reasonable accommodation during the application or the recruiting process, please use our online form to submit a request.
+
+California Privacy Notice
+
+The California Consumer Privacy Act (CCPA) grants privacy rights to all California residents. The law also entitles job applicants, employees, and non-employee workers to be notified of what personal information LLNL collects and for what purpose. The Employee Privacy Notice can be accessed here.",unavailable,Full-time,"Full-time, ","Benefits
+Pulled from the full job description
+401(k)
+Flexible schedule
+Relocation assistance
+Tuition reimbursement
+Work from home
+&nbsp;",unavailable,unavailable,11/18/2024,false,unavailable,unavailable,https://www.indeed.com/rc/clk?jk=e70dda2752678ce1&bb=76gEBLyIr6FfG_tWDtSi_J9xNjCPRELza9PGPcNKgicek26bruHhfa1-zIQ-pMxmjiq2lLE8Ee4tZNlGLL4d7EqaTZY8Ij5o63gO7yxjf6kCQ6Kz1bLJew%3D%3D&xkcb=SoAn67M3-QV4N9ysTp0JbzkdCdPP&fccid=26727f1861532c63&vjs=3
+4cdabd63-8658-437f-9603-2bf8f58e30fd,Software Development Engineer,https://www.indeed.com/rc/clk?jk=d43dea36de5bd5fc&bb=76gEBLyIr6FfG_tWDtSi_BUnj1Vb0uAC8H0d1b91aXXquN8-OFqviZ2MfHUk35DftsOdopYSiXNpsNUJ0BerWf2cKETjeHMIgiRMr3daLiIrwn2QCCR8Eg%3D%3D&xkcb=SoCT67M3-QV4N9ysTp0IbzkdCdPP&fccid=617d7f961cfcf54a&vjs=3,unavailable,Workday,https://www.indeed.com/cmp/Workday?campaignid=mobvjcmp&from=mobviewjob&tk=1i2geupusn8hr800&fromjk=53ef813da544ee71,190,"Your work days are brighter here.
+At Workday, it all began with a conversation over breakfast. When our founders met at a sunny California diner, they came up with an idea to revolutionize the enterprise software market. And when we began to rise, one thing that really set us apart was our culture. A culture which was driven by our value of putting our people first. And ever since, the happiness, development, and contribution of every Workmate is central to who we are. Our Workmates believe a healthy employee-centric, collaborative culture is the essential mix of ingredients for success in business. That’s why we look after our people, communities and the planet while still being profitable. Feel encouraged to shine, however that manifests: you don’t need to hide who you are. You can feel the energy and the passion, it's what makes us unique. Inspired to make a brighter work day for all and transform with us to the next stage of our growth journey? Bring your brightest version of you and have a brighter work day here.
+About the Team
+Workday is a leading Enterprise Cloud Applications provider developing and deploying a wide range of business applications. The Workday Architecture Group performs research on Workday’s future architecture, including building out proof of concepts and early products. If you appreciate the elegance and complexity of a highly available, scalable, secure, open and modern distributed platform and can perform quick yet accurate implementations, then this role could be a good fit.
+About the Role
+As a member of this team you’ll work with innovative and experienced engineers to work on the projects that will help define the future architecture of the Workday platform. You will take on the challenge of proving out advanced designs and scaling it to meet growing business needs while minimizing operational cost.
+Participate in the design of Workday’s future architecture
+Write code, develop tools, and perform other software engineering tasks necessary to prove out the architecture, in an iterative, agile environment
+Be able to move fast, yet generate high quality output, knowing that iteration is an important aspect of our development process
+Document design and code for maintainability
+Contribute ideas for continually improving the team's productivity, job enjoyment, and code quality
+Collaborate with architects, principal engineers and technical product managers to analyze functional requirements, devise architecture designs that provide real scalability, low latency, and high availability
+Be responsible for system performance and stability by proactively identifying and diagnosing issues and rapidly deploying code to address issues
+Be an enthusiast of our technologies and products. Influence and collaborate across functional teams in coming together towards a common business goal and data architecture
+About You
+Basic Qualifications
+5+ years of software engineering experience including object oriented programming in Java (version 8+, ideally 17+). Proficient in applying common design patterns, including dependency injection.
+1+ years in performance engineering or proven experience with operations, development, and testing of large scale distributed systems in production environments
+Other Qualifications
+BS in Computer Science or related fields Required Graduate degree preferred
+Experience in database implementation and/or use.
+Experience using or building distributed systems with an understanding of scalability, lock free algorithms, high availability, CAP theorem, etc.
+Experience with Java build tools such as Ant, Maven, Gerrit, Gradle, etc.
+DSL (Domain Specific Language) development knowledge or interest.
+Experience in Agile development methodologies: eXtreme Programming, Crystal Methods, Scrum.
+Experience or coursework in compilers, model driven development, distributed systems, databases, and/or language design.
+Web technologies including: React.js, Node.js, RESTful api, JSON, GraphQL and REST-based services
+SQL and NOSQL databases
+CI/CD: Github, Jenkins pipelines
+Working knowledge of cloud services such as AWS, Microsoft Azure, Google Cloud etc.
+Proven ability to balance multiple priorities and communicate across organizational boundaries
+Great team player
+
+Workday Pay Transparency Statement
+The annualized base salary ranges for the primary location and any additional locations are listed below. Workday pay ranges vary based on work location. As a part of the total compensation package, this role may be eligible for the Workday Bonus Plan or a role-specific commission/bonus, as well as annual refresh stock grants. Recruiters can share more detail during the hiring process. Each candidate’s compensation offer will be based on multiple factors including, but not limited to, geography, experience, skills, job duties, and business need, among other things. For more information regarding Workday’s comprehensive benefits, please
+click here
+.
+Primary Location: USA.CA.Pleasanton
+
+Primary Location Base Pay Range: $140,000 USD - $210,000 USD
+
+Additional US Location(s) Base Pay Range: $117,800 USD - $210,000 USD
+
+Our Approach to Flexible Work
+
+With Flex Work, we’re combining the best of both worlds: in-person time and remote. Our approach enables our teams to deepen connections, maintain a strong community, and do their best work. We know that flexibility can take shape in many ways, so rather than a number of required days in-office each week, we simply spend at least half (50%) of our time each quarter in the office or in the field with our customers, prospects, and partners (depending on role). This means you'll have the freedom to create a flexible schedule that caters to your business, team, and personal needs, while being intentional to make the most of time spent together. Those in our remote ""home office"" roles also have the opportunity to come together in our offices for important moments that matter.
+Pursuant to applicable Fair Chance law, Workday will consider for employment qualified applicants with arrest and conviction records.
+Workday is an Equal Opportunity Employer including individuals with disabilities and protected veterans.
+Are you being referred to one of our roles? If so, ask your connection at Workday about our Employee Referral process!",- Full-time,"$140,000 - $210,000 a year","$140,000 - $210,000 a year, ","Benefits
+Pulled from the full job description
+Flexible schedule
+&nbsp;",unavailable,unavailable,10/22/2024,false,unavailable,156,https://www.indeed.com/rc/clk?jk=d43dea36de5bd5fc&bb=76gEBLyIr6FfG_tWDtSi_BUnj1Vb0uAC8H0d1b91aXXquN8-OFqviZ2MfHUk35DftsOdopYSiXNpsNUJ0BerWf2cKETjeHMIgiRMr3daLiIrwn2QCCR8Eg%3D%3D&xkcb=SoCT67M3-QV4N9ysTp0IbzkdCdPP&fccid=617d7f961cfcf54a&vjs=3
