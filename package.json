@@ -1,0 +1,19 @@
+{
+  "name": "indeed-job-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-writer": "^1.6.0",
+    "puppeteer": "^22.12.1",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "uuid": "^9.0.1"
+  }
+}
