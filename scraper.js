@@ -105,7 +105,6 @@ async function scrapeJobs() {
 
           jobDetails.push({
             jobId,
-            posted_at: 'pending',
             title: jobTitle,
             job_url: jobUrl,
             branch: location,
@@ -161,7 +160,6 @@ async function saveJobsToCsv(jobs, filePath) {
     path: `jobs/${filePath}`,
     header: [
       { id: 'jobId', title: 'jobId' },
-      { id: 'posted_at', title: 'posted_at' },
       { id: 'title', title: 'title' },
       { id: 'job_url', title: 'job_url' },
       { id: 'branch', title: 'branch' },
