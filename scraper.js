@@ -45,8 +45,8 @@ async function scrapeJobs() {
 
       for (const resultContent of resultContents) {
         try {
-          const jobUrl = await resultContent.$eval('.jobTitle > a', el => el.href).catch(() => 'pending');
-          const thirdPartyApplyUrl = await resultContent.$eval('.jobTitle > a', el => el.href).catch(() => 'pending');
+          const jobUrl = await resultContent.$eval('.jobTitle > a', el => el.href).catch(() => 'unavailable');
+          const thirdPartyApplyUrl = await resultContent.$eval('.jobTitle > a', el => el.href).catch(() => 'unavailable');
 
           await resultContent.click();
           await page.waitForSelector('.jobsearch-JobInfoHeader-title', { timeout: 60000 });
@@ -58,44 +58,44 @@ async function scrapeJobs() {
               titleText = titleText.replace(excludedEl.innerText.trim(), '');
             });
             return titleText.trim();
-          }).catch(() => 'pending');
+          }).catch(() => 'unavailable');
 
-          const location = await page.$eval('[data-testid="jobsearch-JobInfoHeader-companyLocation"]', el => el.innerText.trim()).catch(() => 'pending');
+          const location = await page.$eval('[data-testid="jobsearch-JobInfoHeader-companyLocation"]', el => el.innerText.trim()).catch(() => 'unavailable');
           const salaryInfo = await page.$eval('#salaryInfoAndJobType', el => {
             const spans = el.querySelectorAll('span');
-            const salary = spans.length > 0 ? spans[0].innerText.trim() : 'pending';
-            const jobType = spans.length > 1 ? spans[1].innerText.trim() : 'unknown';
+            const salary = spans.length > 0 ? spans[0].innerText.trim() : 'unavailable';
+            const jobType = spans.length > 1 ? spans[1].innerText.trim() : 'unavailable';
             return { salary, jobType };
-          }).catch(() => ({ salary: 'pending', jobType: 'unknown' }));
+          }).catch(() => ({ salary: 'unavailable', jobType: 'unavailable' }));
 
           const benefit = await page.$eval('#benefits', el => {
             const textContent = el.innerText.trim();
-            return textContent ? textContent : 'unknown';
-          }).catch(() => 'unknown');
+            return textContent ? textContent : 'unavailable';
+          }).catch(() => 'unavailable');
 
-          const description = await page.$eval('#jobDescriptionText', el => el.innerText.trim()).catch(() => 'pending');
+          const description = await page.$eval('#jobDescriptionText', el => el.innerText.trim()).catch(() => 'unavailable');
           const jobShift = await page.$eval('.js-match-insights-provider-g6kqeb.ecydgvn0', el => {
             const divs = el.querySelectorAll('div');
             if (divs.length > 0) {
               return Array.from(divs).map(div => div.innerText.trim()).join(', ');
             }
-            return 'unknown';
-          }).catch(() => 'unknown');
+            return 'unavailable';
+          }).catch(() => 'unavailable');
 
-          const companyUrl = await page.$eval('.css-1saizt3.e1wnkr790 > a', el => el.href).catch(() => 'pending');
-          const companyName = await page.$eval('.css-1saizt3.e1wnkr790 > a', el => el.innerText.trim()).catch(() => 'pending');
-          const averageRating = await page.$eval('[data-testid="inlineHeader-companyName"] .css-ppxtlp.e1wnkr790', el => el.innerText.trim()).catch(() => 'pending');
+          const companyUrl = await page.$eval('.css-1saizt3.e1wnkr790 > a', el => el.href).catch(() => 'unavailable');
+          const companyName = await page.$eval('.css-1saizt3.e1wnkr790 > a', el => el.innerText.trim()).catch(() => 'unavailable');
+          const averageRating = await page.$eval('[data-testid="inlineHeader-companyName"] .css-ppxtlp.e1wnkr790', el => el.innerText.trim()).catch(() => 'unavailable');
 
-          let review = 'pending';
-          let numberOfJobs = 'pending';
-          if (companyUrl !== 'pending') {
+          let review = 'unavailable';
+          let numberOfJobs = 'unavailable';
+          if (companyUrl !== 'unavailable') {
             const companyPage = await browser.newPage();
             await companyPage.goto(companyUrl, { waitUntil: 'networkidle2', timeout: 60000 });
 
             // Extract review
-            review = await companyPage.$eval('[data-testid="reviews-tab"] .css-104u4ae.eu4oa1w0', el => el.innerText.trim()).catch(() => 'pending');
+            review = await companyPage.$eval('[data-testid="reviews-tab"] .css-104u4ae.eu4oa1w0', el => el.innerText.trim()).catch(() => 'unavailable');
             // Extract number of jobs
-            numberOfJobs = await companyPage.$eval('[data-testid="jobs-tab"] .css-104u4ae.eu4oa1w0', el => el.innerText.trim()).catch(() => 'pending');
+            numberOfJobs = await companyPage.$eval('[data-testid="jobs-tab"] .css-104u4ae.eu4oa1w0', el => el.innerText.trim()).catch(() => 'unavailable');
             
             await companyPage.close();
           }
@@ -116,8 +116,8 @@ async function scrapeJobs() {
             salary: salaryInfo.salary,
             shift: jobShift,
             benefit,
-            category: 'pending',
-            subcategory: 'pending',
+            category: 'unavailable',
+            subcategory: 'unavailable',
             expire_at: expiresAt,
             is_claimed: false,
             average_rating: averageRating,
